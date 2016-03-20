@@ -1,0 +1,3077 @@
+25	unhappiness n.melancholy,
+24	sorrow n.grief
+23	depression n.melancholy, dejection, despair
+21	grief n.melancholy, suffering
+19	misery n.pain, mental, physical
+18	despondency n.dejection, melancholy, 
+18	melancholy n.dejection,   
+16	woe n.suffering
+15	gloom n.melancholy, depression,
+14	anguish n.dejection
+14	dejection n.melancholy,  
+12	distress n.pain, agony
+11	desolation n.distress, unhappiness
+10	blues n.melancholy, dejection,  
+10	gloominess n.dejection
+9	despair n.dejection
+8	dolour n.
+8	heartache n.anguish, sorrow
+8	pain n.suffering
+8	wretchedness n.
+7	downheartedness n. ,  , dejection
+7	mournfulness n. ,  , dejection
+7	sorrowfulness n.
+7	agony n.
+7	doldrums n. ,  , dejection
+7	dreariness n.gloominess, dejection
+7	dumps n. ,  , dejection
+7	woefulness n.dejection
+6	anxiety n.dejection
+6	dispiritedness n.dejection
+5	affliction n.
+5	disconsolateness n.dejection
+5	ennui n.boredom, dejection
+5	glumness n. ,  , dejection
+5	joylessness n.dejection
+5	pity n. & v.feeling
+5	regret n. & v.
+4	dolefulness n. ,  
+4	dolor n.misery, anguish
+4	  n. ,  
+4	forlornness n.
+4	heartbreak n.
+4	melancholia dejection
+4	moodiness n.dejection
+4	moroseness n.dejection
+4	mourning n.
+4	poignancy n. 
+4	remorse n.
+4	suffering n.
+3	anger n. 
+3	cheerlessness n.
+3	dejectedness n.
+3	disappointment melancholy, depression, agitation
+3	discomfort n.
+3	infelicity
+3	lugubriousness n.
+3	megrims dejection
+3	miserableness n.
+3	mopes
+3	pathos n.
+3	penitence n.shame, sorrow
+3	pessimism n.belief, doubt, dejection
+3	plaintiveness n.dejection
+3	sullenness n.dejection
+3	torment n.
+3	tribulation n.
+3	trouble n.
+2	bathos
+2	blue devils  dejection,  
+2	care n.
+2	concern
+2	despondence n. ,  
+2	discontent
+2	discouragement n.dejection
+2	disheartenment n.dejection
+2	dolorousness n.dejection
+2	dysphoria n. ,  
+2	excitement n. 
+2	feeling n. 
+2	funk n. ,  
+2	grimness n.dejection
+2	hatred n. 
+2	hurt n.
+2	painfulness
+2	passion n. 
+2	ruefulness n.
+2	sensation n. 
+2	sentiment n. 
+2	sympathy n. 
+2	torture n.
+2	trial n.
+2	wistfulness n.dejection
+1	ache n.
+1	aching heart
+1	adversity n.
+1	agitation
+1	agony of mind   
+1	angst n.
+1	annoy
+1	ardor
+1	bale
+1	beggarliness
+1	bereavement n.
+1	bitterness
+1	blackishness
+1	bleakness
+1	bleeding heart
+1	broken heart
+1	bummer
+1	calamity n.
+1	chagrin
+1	cheapness
+1	comfortlessness
+1	commotion
+1	complain v.
+1	contemplativeness n.dejection
+1	contemptibleness
+1	contrition n.
+1	crumminess
+1	crushing
+1	darkishness
+1	darkness
+1	darksomeness
+1	depth of misery   
+1	desire
+1	desolateness n.
+1	despicableness
+1	dinge
+1	disconsolation
+1	disgruntlement
+1	dishearten
+1	dismalness
+1	dismals dejection
+1	disquiet n.
+1	distressfulness
+1	disturbance
+1	doleful adj.
+1	downcastness
+1	downs
+1	drear n.
+1	drive
+1	duskiness
+1	duskness
+1	empathy
+1	excitability
+1	extremity
+1	fear n. 
+1	fervor
+1	funereality
+1	gaudiness
+1	gloomy adj.
+1	graveness
+1	grievance
+1	grieve v.
+1	grievousness
+1	gut reaction
+1	heartsickness
+1	inspiration
+1	mental  
+1	paltriness
+1	pensiveness n.dejection
+1	perturbation
+1	pitiability
+1	pitiableness
+1	pitifulness
+1	poorness
+1	pride
+1	prostration
+1	rage
+1	regretfulness n.
+1	regrettableness
+1	repentance n.
+1	responsiveness
+1	rue n.
+1	rueful adj.
+1	ruth n.compassion
+1	ruthfulness
+1	sadden v.
+1	satisfaction
+1	self-reproach n.
+1	sensibility
+1	sensitiveness
+1	shabbiness
+1	shame n.
+1	sharpness
+1	shoddiness
+1	soberness
+1	sobriety
+1	somberness
+1	sorriness
+1	spleen dejection
+1	suds
+1	suicidal despair
+1	swarth
+1	swarthiness
+1	swartness
+1	temperment n. 
+1	thrill
+1	tremor
+1	unworthiness
+1	upset
+1	vehemence
+1	vileness
+1	warmth
+1	woebegoneness
+1	worthlessness
+1	zeal
+0	heaviness n.
+0	heavy heart
+0	heavyheartedness
+0	hopelessness
+0	horrors dejection
+0	lachrymals dejection
+0	lament n. & v.
+0	lamentability
+0	lamentable adj.
+0	lamentation
+0	listlessness
+0	low spirits   
+0	malady
+0	meanness
+0	meretriciousness
+0	meritlessness
+0	mood n. 
+0	mope n. ,  
+0	mournful adj.
+0	mumps dejection
+0	afflicted v.
+0	aggrieve v.
+0	any tune   
+0	apathy
+0	assent affirmation
+0	bad luck   
+0	be assured  affirmation,  
+0	belief affirmation
+0	bemoan v.
+0	bewail v.
+0	blank despondency   , dejection
+0	blow
+0	by jingo  affirmation,  
+0	by my troth  affirmation,  
+0	commiserate v.
+0	compunction n.
+0	conscience n.
+0	contrite adj.
+0	crying
+0	deplorably adv.
+0	depress v.
+0	depressive disorders   
+0	depressive episode   
+0	desperation n.
+0	despondent adj.
+0	disconsolate n.
+0	dismal adj.
+0	dismay
+0	displeasure
+0	dissatisfaction
+0	distressful adj.
+0	distressing adj.
+0	dolorous adj.
+0	down adv.
+0	downcast adj.
+0	downhearted v.
+0	dreary adj.
+0	dusky adj.
+0	egad affirmation
+0	elegiac adj.
+0	empathise v.
+0	empathize v.
+0	fatal adj.
+0	forlorn adj.
+0	forsooth affirmation
+0	gather v.
+0	gaunt adj.
+0	grieve for phr. v. & v 
+0	grievous adj.
+0	guilt n.
+0	hardship n.
+0	heavy-heartedness n. ,  
+0	hope deferred   , dejection
+0	hypochondriasis dejection
+0	i' faith  affirmation,  
+0	il penseroso  dejection,  
+0	ill humor   
+0	in all conscience  affirmation,  
+0	in earnest  affirmation,  
+0	in fact  affirmation,  
+0	in sober sadness  affirmation,  
+0	in truth  affirmation,  
+0	indeed affirmation
+0	infer v.
+0	interpret v.
+0	joking apart phr. v. & v.affirmation
+0	loneliness n.
+0	loss
+0	marry affirmation
+0	misfortune n.
+0	mourn v.
+0	need
+0	of a truth  affirmation,  
+0	pang
+0	penance n.
+0	penitency n.penitence
+0	pensive adj.
+0	perdy affirmation
+0	pessimistic adj.
+0	qualm n.
+0	reaction
+0	read v.
+0	realise v.
+0	realize v.
+0	regrets n.
+0	rejection
+0	repent v.
+0	sad adj.
+0	sadly affirmation
+0	second thoughts n.
+0	self-condemnation n.
+0	seriously affirmation
+0	sorrowful adj.
+0	sorry adj.
+0	sympathise v.
+0	sympathize v.
+0	tear n.
+0	throe
+0	tiredness
+0	tragedy n.
+0	troth affirmation
+0	truly affirmation
+0	understand v.
+0	unhappily adv.
+0	un  adj.
+0	unipolar affective disorder   
+0	unipolar affective disorders   
+0	unwarmheartedness
+0	upon my honor   , affirmation
+0	upon my word  affirmation,  
+0	upon oath  affirmation,  
+0	vapors dejection
+0	vibes
+0	voiceless woe   , dejection
+0	want
+0	weep v.
+0	why affirmation
+0	woebegone adj.
+0	woeful adj.
+0	woefully adv.
+0	worry n.
+0	wrench
+0	yes affirmation
+0	deplore v.
+cry one's eyes out
+If you cry your eyes out, you cry a lot and for a long time.
+My son cried his eyes out when he discovered his bike had been stolen.
+down in the dumps
+Someone who is down in the dumps is depressed or feeling gloomy.
+Alex has been down in the dumps since he failed his exam.
+down in the mouth
+When someone is down in the mouth, they look unhappy, discouraged or depressed.
+You look a bit down in the mouth.  What's the matter?
+face like a wet week-end If someone has a face like a wet week-end, they look sad and miserable.
+What's wrong with Pete? He's got a face like a wet week-end!
+fool's paradise
+If someone is living in a fool's paradise, they are in a state of contentment that will not last because their happiness is based 
+on illusion or false hope.
+Lisa is living in a fool's paradise if she thinks her boss is going to marry her.
+your heart sinks
+If your heart sinks, you feel very unhappy and despondent.
+My heart sank when I saw the amount of work waiting for me.
+bad
+adj. sorry
+apologetic
+conscience-stricken
+contrite
+crestfallen
+dejected
+depressed
+disconsolate
+down
+downcast
+downhearted
+guilty
+low
+regretful
+remorseful
+sad
+upset
+woebegone
+black
+adj. hopeless
+atrocious
+bleak
+depressing
+depressive
+dismal
+dispiriting
+distressing
+doleful
+dreary
+foreboding
+funereal
+gloomy
+horrible
+lugubrious
+mournful
+ominous
+oppressive
+sad
+sinister
+sombre
+threatening
+bleak
+adj. depressing
+black
+cheerless
+comfortless
+dark
+discouraging
+disheartening
+dismal
+drear
+dreary
+funereal
+gloomy
+grim
+hard
+harsh
+hopeless
+joyless
+lonely
+melancholy
+mournful
+oppressive
+sad
+somber
+unpromising
+cabin fever
+noun. anxiety caused by living in isolation or indoors for a long period of time
+claustrophobia
+climbing the walls
+distress
+neurosis
+restlessness
+sad
+seasonal affective disorder
+temporary insanity
+winter blues
+cheerless
+adj. depressing, unhappy
+austere
+black
+bleak
+blue
+comfortless
+dark
+dejected
+dejecting
+depressed
+desolate
+despondent
+disconsolate
+dismal
+dispiriting
+dolorous
+drab
+draggy
+drearisome
+dreary
+dull
+forlorn
+funereal
+gloomy
+grim
+in the dumps
+jarring
+joyless
+melancholy
+miserable
+mopey
+mournful
+oppressive
+sad
+somber
+sorrowful
+sullen
+tenebrific
+uncomfortable
+wintry
+woebegone
+woeful
+contemptible
+adj. despicable, shameful
+abhorrent
+abject
+abominable
+bad
+base
+beggarly
+cheap
+crass
+currish
+degenerate
+despisable
+detestable
+dirty
+disgusting
+hateful
+heel
+ignoble
+ignominious
+inferior
+low
+low-down
+lowest
+mean
+odious
+outcast
+paltry
+pitiable
+pitiful
+poor
+sad
+scummy
+scurvy
+shabby
+sordid
+sorry
+swinish
+unworthy
+vile
+worthless
+wretched
+crestfallen
+adj. disappointed
+ass in a sling
+blue
+cast down
+chapfallen
+dejected
+depressed
+despondent
+disconsolate
+discouraged
+disheartened
+dispirited
+down
+down in the dumps
+downcast
+downhearted
+in a funk
+inconsolable
+low
+sad
+singing the blues
+taken down
+dejected
+adj. depressed, blue
+abject
+all torn up
+atrabilious
+black
+bleak
+broody
+bummed out
+cast down
+cheerless
+clouded
+crestfallen
+dampened
+dashed
+despondent
+disconsolate
+discouraged
+disheartened
+dismal
+dispirited
+doleful
+down
+down in the dumps
+down in the mouth
+downcast
+downhearted
+dragged
+drooping
+droopy
+gloomy
+glum
+heavyhearted
+hurting
+in the pits
+low
+low-spirited
+melancholy
+miserable
+moody
+mopey
+mopish
+morose
+sad
+sagging
+shot down
+spiritless
+woebegone
+wretched
+deplorable
+adj. unfortunate, shameful
+afflictive
+awful
+blameworthy
+bummer
+calamitous
+dire
+dirty
+disastrous
+disgraceful
+dishonorable
+disreputable
+distressing
+dolorous
+downer
+dreadful
+execrable
+faulty
+godawful
+grievous
+grim
+heartbreaking
+heartrending
+horrifying
+intolerable
+lamentable
+lousy
+melancholy
+miserable
+mournful
+opprobrious
+overwhelming
+pitiable
+poor
+regrettable
+reprehensible
+rotten
+sad
+scandalous
+sickening
+stinking
+terrible
+tragic
+unbearable
+unsatisfactory
+woeful
+wretched
+depressed
+adj. discouraged
+bad
+bleeding
+blue
+bummed out
+cast-down
+crestfallen
+crummy
+dejected
+despondent
+destroyed
+disconsolate
+dispirited
+down
+down and out
+down in the dumps
+down in the mouth
+downcast
+downhearted
+dragged
+fed up
+glum
+grim
+hurting
+in a blue funk
+in pain
+in the dumps
+in the pits
+in the toilet
+let down
+low
+low-down
+low-spirited
+lugubrious
+melancholy
+moody
+morose
+on a downer
+pessimistic
+ripped
+sad
+sob story
+spiritless
+taken down
+torn up
+unhappy
+weeping
+woebegone
+depressing
+adj. discouraging, upsetting
+black
+bleak
+daunting
+dejecting
+disheartening
+dismal
+dispiriting
+distressing
+dreary
+funereal
+gloomy
+heartbreaking
+hopeless
+joyless
+melancholic
+melancholy
+mournful
+oppressive
+sad
+saddening
+somber
+despairing
+adj. upset, despondent
+anxious
+at end of one's rope
+blue
+brokenhearted
+can't win
+cynical
+dejected
+depressed
+desperate
+disconsolate
+downcast
+forlorn
+frantic
+grief-stricken
+hopeless
+in pain
+in the dumps
+in the pits
+in the soup
+inconsolable
+melancholic
+melancholy
+miserable
+no-win
+not a prayer
+oppressed
+pessimistic
+sad
+shot down
+strabilious
+suicidal
+sunk
+weighed down
+wretched
+desperate
+adj. hopeless
+at end of one's rope
+back to the wall
+can't win
+dead duck
+despairing
+despondent
+desponding
+downcast
+forlorn
+futile
+gone
+goner
+hard up
+in the soup
+in the toilet
+inconsolable
+irrecoverable
+irremediable
+irretrievable
+no-chance
+no-way
+no-win
+running out of time
+sad
+sunk
+up against it
+up the creek
+useless
+vain
+wretched
+despondent
+adj. depressed
+all torn up
+blue
+bummed-out
+cast-down
+dejected
+despairing
+disconsolate
+discouraged
+disheartened
+dispirited
+doleful
+down
+downcast
+downhearted
+forlorn
+gloomy
+glum
+griefstricken
+grieving
+hopeless
+in a blue funk
+in despair
+in the pits
+low
+low-spirited
+melancholy
+miserable
+morose
+mourning
+sad
+shot down
+sorrowful
+woebegone
+wretched
+More words related to sad
+disconsolate
+adj. depressed, unhappy
+bad
+black
+blue
+cheerless
+cold
+comfortless
+crestfallen
+crushed
+dark
+dejected
+desolate
+despairing
+destroyed
+dispirited
+distressed
+doleful
+down
+downcast
+downhearted
+dreary
+forlorn
+gloomy
+grief-stricken
+heartbroken
+hopeless
+hurting
+in pain
+in the pits
+inconsolable
+low
+melancholy
+miserable
+ripped
+sad
+somber
+sorrowful
+torn-up
+woebegone
+woeful
+wretched
+discouraged
+adj. disheartened
+beat
+beat-down
+blue
+caved-in
+come-apart
+crestfallen
+dashed
+daunted
+depressed
+deterred
+dismayed
+dispirited
+down
+down-in-mouth
+downbeat
+downcast
+glum
+gone to pieces
+in a funk
+in blue funk
+in the dumps
+lost momentum
+pessimistic
+sad
+dismal
+adj. bleak, dreary, gloomy
+afflictive
+black
+boring
+cheerless
+cloudy
+dark
+depressed
+depressing
+desolate
+despondent
+dim
+dingy
+disagreeable
+discouraging
+disheartening
+dispiriting
+doleful
+dolorous
+dull
+forlorn
+frowning
+funereal
+ghastly
+gruesome
+hopeless
+horrible
+horrid
+in the pits
+inauspicious
+joyless
+lonesome
+lowering
+lugubrious
+melancholy
+miserable
+monotonous
+morbid
+murky
+oppressive
+overcast
+sad
+shadowy
+somber
+sorrowful
+tedious
+tenebrous
+troublesome
+unfortunate
+unhappy
+doleful
+adj. depressing
+afflicted
+cast down
+cheerless
+crestfallen
+dejected
+depressed
+dirgeful
+dismal
+dispirited
+distressing
+dolent
+dolorous
+down
+down in the mouth
+downcast
+downhearted
+dreary
+forlorn
+funereal
+gloomy
+grieving
+lamentable
+lugubrious
+melancholy
+mournful
+painful
+piteous
+pitiful
+plaintive
+rueful
+sad
+somber
+sorrowful
+woebegone
+woeful
+wretched
+dolorous
+adj. miserable, anguished
+afflicted
+afflictive
+calamitous
+deplorable
+dire
+distressing
+doleful
+dolent
+dolesome
+dolorific
+grievous
+harrowing
+heart-rending
+lamentable
+lugubrious
+melancholy
+mournful
+painful
+plaintive
+regrettable
+rueful
+ruthful
+sad
+sorrowful
+woebegone
+woeful
+wretched
+down
+adj. unhappy
+bad
+blue
+cast down
+chapfallen
+crestfallen
+dejected
+depressed
+disheartened
+dispirited
+downcast
+downhearted
+low
+miserable
+off
+sad
+slack
+sluggish
+downcast
+adj. depressed, unhappy
+bad
+blue
+brooding
+bummed out
+cast down
+chapfallen
+cheerless
+crestfallen
+daunted
+dejected
+despondent
+disappointed
+disconsolate
+discouraged
+disheartened
+dismayed
+dispirited
+distressed
+doleful
+down
+down in the dumps
+down-in-the-mouth
+downhearted
+dragged
+droopy
+dull
+forlorn
+gloomy
+glum
+heartsick
+in pain
+listless
+low
+low-spirited
+miserable
+moody
+mopey
+morose
+oppressed
+sad
+shot down
+singing the blues
+sunk
+troubled
+weighed down
+woebegone
+downhearted
+adj. depressed, unhappy
+blue
+chapfallen
+crestfallen
+dejected
+despondent
+disconsolate
+discouraged
+disheartened
+dismayed
+dispirited
+down
+downcast
+low
+low-spirited
+sad
+sorrowful
+spiritless
+woebegone
+dreary
+adj. gloomy, lifeless
+black
+blah
+bleak
+boring
+cheerless
+colorless
+comfortless
+damp
+depressing
+depressive
+dingy
+dismal
+dispiriting
+doleful
+downcast
+drab
+dull
+forlorn
+funereal
+glum
+humdrum
+joyless
+lonely
+lonesome
+melancholy
+monotonous
+mournful
+oppressive
+pedestrian
+raw
+routine
+sad
+somber
+sorrowful
+tedious
+uneventful
+uninteresting
+wearisome
+windy
+wintry
+wretched
+More words related to sad
+elegiac
+adj. lamenting
+doleful
+funereal
+melancholy
+mournful
+sad
+sorrowful
+threnodial
+frail
+adj. breakable, weak
+brittle
+dainty
+decrepit
+delicate
+feeble
+fishy
+flimsy
+fracturable
+fragile
+frangible
+infirm
+insubstantial
+puny
+sad
+shatterable
+shattery
+sickly
+slender
+slight
+slim
+tender
+tenuous
+thin
+unsound
+unsubstantial
+vulnerable
+wimpy
+wishy-washy
+wispy
+funereal
+adj. depressing
+black
+bleak
+dark
+deathlike
+dirgelike
+disheartening
+dismal
+doleful
+dreary
+elegiac
+gloomy
+grave
+grim
+lamenting
+lugubrious
+melancholy
+mournful
+oppressive
+sad
+sepulchral
+serious
+solemn
+somber
+woeful
+gloomy
+adj. feeling down, blue
+blue funk
+broody
+chapfallen
+cheerless
+crabbed
+crestfallen
+dejected
+depressed
+desolate
+despondent
+disconsolate
+dismal
+dispirited
+dour
+down in the dumps
+down in the mouth
+downcast
+downhearted
+dragged
+forlorn
+glum
+in low spirits
+in the dumps
+joyless
+low
+melancholy
+mirthless
+miserable
+moody
+moping
+mopish
+morose
+mournful
+oppressed
+pessimistic
+sad
+saturnine
+solemn
+sulky
+sullen
+surly
+ugly
+unhappy
+weary
+woebegone
+woeful
+glum
+adj. sullen
+blue
+bummed out
+dejected
+depressed
+dismal
+dispirited
+down
+gloomy
+low
+melancholy
+morose
+sad
+sulky
+grave
+adj. serious; gloomy
+cold sober
+deadpan
+dignified
+dour
+dull
+earnest
+grim
+grim-faced
+heavy
+leaden
+long-faced
+meaningful
+muted
+no-nonsense
+ponderous
+quiet
+sad
+sage
+saturnine
+sedate
+sober
+solemn
+somber
+staid
+strictly business
+subdued
+thoughtful
+unsmiling
+grievous
+adj. severe, painful; serious
+afflicting
+agonizing
+appalling
+atrocious
+calamitous
+damaging
+deplorable
+dire
+dismal
+disquieting
+distressing
+disturbing
+dreadful
+egregious
+flagrant
+glaring
+grave
+harmful
+heart-rending
+heavy
+heinous
+hurtful
+injurious
+intolerable
+lamentable
+monstrous
+mournful
+offensive
+onerous
+oppressive
+outrageous
+pathetic
+pitiful
+sad
+shameful
+sharp
+shocking
+sorrowful
+taxing
+tough
+tragic
+troublesome
+unbearable
+upsetting
+villainous
+weighty
+wounding
+heartbreaking
+adj. disappointing
+affecting
+afflictive
+agonizing
+bitter
+calamitous
+cheerless
+deplorable
+dire
+distressing
+grievous
+heart-rending
+joyless
+lamentable
+moving
+pitiful
+poignant
+regrettable
+sad
+touching
+tragic
+unfortunate
+heartrending
+adj. arousing deep sympathy
+agonizing
+distressing
+doleful
+excruciating
+harrowing
+heartbreaking
+heartsickening
+moving
+piteous
+pitiful
+sad
+tear-jerking
+touching
+tragic
+heartsick
+adj. despondent
+all torn up
+blue
+bummed-out
+dejected
+depressed
+despairing
+disappointed
+disconsolate
+disheartened
+down
+forlorn
+grieving
+heavy-hearted
+inconsolable
+low
+melancholy
+mournful
+sad
+unhappy
+woebegone
+heavy
+adj. depressed, gloomy
+close
+cloudy
+crestfallen
+damp
+dark
+dejected
+despondent
+disconsolate
+dismal
+downcast
+dull
+grieving
+leaden
+lowering
+melancholy
+oppressive
+overcast
+sad
+sodden
+soggy
+sorrowful
+stifling
+wet
+hopeless
+adj. futile, pessimistic
+bad
+beyond recall
+cynical
+dejected
+demoralized
+despairing
+desperate
+despondent
+disconsolate
+discouraging
+downhearted
+fatal
+forlorn
+gone
+goner
+helpless
+ill-fated
+impossible
+impracticable
+in despair
+incurable
+irredeemable
+irreparable
+irreversible
+irrevocable
+lost
+menacing
+no-win
+past hope
+pointless
+sad
+shot down
+sinister
+sunk
+threatening
+tragic
+unachievable
+unavailing
+unfortunate
+unmitigable
+up the creek
+useless
+vain
+woebegone
+worsening
+hurt
+adj. physically or mentally injured
+aching
+aggrieved
+agonized
+all torn up
+battered
+bleeding
+bruised
+buffeted
+burned
+busted up
+contused
+crushed
+cut
+damaged
+disfigured
+distressed
+disturbed
+grazed
+harmed
+hit
+impaired
+in pain
+indignant
+lacerated
+marred
+mauled
+miffed
+mutilated
+nicked
+offended
+pained
+piqued
+put away
+resentful
+rueful
+sad
+scarred
+scraped
+scratched
+shook
+shot
+sore
+stricken
+struck
+suffering
+tender
+tortured
+umbrageous
+unhappy
+warped
+wounded
+inconsolable
+adj. brokenhearted
+comfortless
+dejected
+desolate
+despairing
+disconsolate
+discouraged
+distressed
+forlorn
+heartbroken
+heartsick
+sad
+unconsolable
+inferior
+adj. poor, second-rate
+average
+bad
+base
+common
+déclassé
+fair
+good-for-nothing
+hack
+imperfect
+indifferent
+junk
+lemon
+lousy
+low-grade
+low-rent
+mean
+mediocre
+middling
+ordinary
+paltry
+poorer
+sad
+second-class
+sorry
+substandard
+tawdry
+two-bit
+worse
+wretched
+joyless
+adj. unhappy
+black
+bleak
+blue
+cheerless
+dejected
+depressant
+depressed
+depressing
+dismal
+dispirited
+dispiriting
+doleful
+down in the mouth
+downcast
+dragged
+dreary
+droopy
+gloomy
+have the blahs
+heavy
+low
+melancholic
+melancholy
+miserable
+mopey
+mournful
+sad
+saddening
+somber
+lamentable
+adj. upsetting, miserable
+afflictive
+awful
+bad
+calamitous
+deplorable
+dire
+dirty
+distressing
+doleful
+dolorous
+god-awful
+grievous
+grim
+heartbreaking
+hurting
+lousy
+low
+lugubrious
+meager
+mean
+melancholy
+mournful
+pitiful
+plaintive
+poor
+regretful
+rotten
+rueful
+sad
+sorrowful
+stinking
+tragic
+unfavorable
+unfortunate
+unsatisfactory
+woeful
+wretched
+low
+adj. depressed
+bad
+blue
+crestfallen
+dejected
+despondent
+disheartened
+down
+down and out
+down in the dumps
+down in the mouth
+downcast
+downhearted
+dragged
+fed up
+forlorn
+gloomy
+glum
+in the pits
+low-down
+miserable
+moody
+morose
+sad
+singing the blues
+spiritless
+unhappy
+miserable
+adj. unhappy, depressed
+afflicted
+agonized
+ailing
+anguished
+brokenhearted
+crestfallen
+dejected
+desolate
+despairing
+despondent
+destroyed
+disconsolate
+discontented
+distressed
+doleful
+dolorous
+down
+down in the mouth
+downcast
+forlorn
+gloomy
+heartbroken
+hopeless
+hurt
+hurting
+ill
+in pain
+injured
+melancholy
+mournful
+on a downer
+pained
+pathetic
+pitiable
+racked
+rueful
+ruthful
+sad
+sick
+sickly
+sorrowful
+strained
+suffering
+tormented
+tortured
+tragic
+troubled
+woebegone
+wounded
+wretched
+miserable
+adj. destitute, shabby
+abject
+bad
+contemptible
+deplorable
+despicable
+detestable
+disgraceful
+godforsaken
+impoverished
+indigent
+inferior
+lamentable
+low
+meager
+mean
+needy
+paltry
+pathetic
+penniless
+piteous
+pitiable
+poor
+poverty-stricken
+sad
+scanty
+scurvy
+shameful
+sordid
+sorry
+squalid
+tragic
+vile
+worthless
+wretched
+moody
+adj. crabby, temperamental
+angry
+cantankerous
+capricious
+changeable
+crabbed
+crestfallen
+cross
+dismal
+doleful
+dour
+down in the dumps
+down in the mouth
+downcast
+erratic
+fickle
+fitful
+flighty
+frowning
+gloomy
+glum
+huffy
+ill-humored
+ill-tempered
+impulsive
+in a huff
+in the doldrums
+introspective
+irascible
+irritable
+lugubrious
+melancholy
+mercurial
+miserable
+moping
+morose
+offended
+out of sorts
+pensive
+petulant
+piqued
+sad
+saturnine
+short-tempered
+splenetic
+sulky
+sullen
+testy
+touchy
+morose
+adj. depressed, pessimistic
+acrimonious
+blue
+brusque
+cantankerous
+choleric
+churlish
+crabbed
+crabby
+cranky
+cross
+dolorous
+dour
+down
+down in the dumps
+down in the mouth
+frowning
+gloomy
+glum
+grouchy
+gruff
+harsh
+having blue devils
+having the blahs
+ill-humored
+ill-tempered
+in a bad mood
+in a blue funk
+irritable
+low
+melancholy
+moody
+moping
+mournful
+perverse
+perversive
+sad
+saturnine
+singing the blues
+snappish
+sour
+splenetic
+sulky
+sullen
+surly
+taciturn
+testy
+troubled
+ugly
+mournful
+adj. sorrowful
+anguished
+bereft
+cheerless
+depressed
+disconsolate
+distressing
+doleful
+dolent
+forlorn
+full of sorrow
+grief-stricken
+grieving
+grievous
+heartbroken
+in mourning
+in pain
+in sorrow
+lamentable
+pitiful
+sad
+sombre
+woeful
+murky
+adj. gloomy, obscure
+black
+caliginous
+cheerless
+cloudy
+dark
+darkened
+dim
+dingy
+dirty
+dismal
+drab
+dreary
+dull
+dun
+dusk
+dusky
+filthy
+foggy
+foul
+fuzzy
+glowering
+gray
+grubby
+impenetrable
+lowering
+misty
+mucky
+muddy
+nasty
+nebulous
+nubilous
+overcast
+roily
+sad
+smoky
+somber
+squalid
+stormy
+tenebrous
+turbid
+unclean
+pessimistic
+adj. expecting bad outcome
+bleak
+cynical
+dark
+dejected
+depressed
+despairing
+despondent
+discouraged
+distrustful
+downhearted
+fatalistic
+foreboding
+gloomy
+glum
+hopeless
+melancholy
+misanthropic
+morbid
+morose
+resigned
+sad
+sullen
+troubled
+worried
+piteous
+adj. miserable, pathetic
+beseeching
+commiserable
+deplorable
+distressing
+doleful
+dolorous
+entreating
+grievous
+heartbreaking
+heartrending
+imploring
+lamentable
+melancholy
+mournful
+moving
+pitiable
+pitiful
+plaintive
+poignant
+poor
+rueful
+ruined
+sad
+sorrowful
+supplicating
+woeful
+wretched
+pitiful
+adj. in bad shape; poor
+abject
+affecting
+afflicted
+arousing
+base
+beggarly
+cheap
+cheerless
+comfortless
+commiserative
+compassionate
+contemptible
+deplorable
+despicable
+dismal
+distressed
+distressing
+grievous
+heartbreaking
+heartrending
+inadequate
+insignificant
+joyless
+lamentable
+low
+mean
+miserable
+mournful
+moving
+paltry
+pathetic
+piteous
+pitiable
+sad
+scurvy
+shabby
+sorrowful
+sorry
+stirring
+suffering
+tearful
+touching
+vile
+woeful
+worthless
+wretched
+More words related to sad
+plaintive
+adj. pathetic, woebegone
+beefing
+bellyaching
+cantankerous
+crabby
+cranky
+disconsolate
+doleful
+grief-stricken
+grievous
+grousing
+grumpy
+heartrending
+lamenting
+lugubrious
+melancholy
+mournful
+out of sorts
+pathetic
+piteous
+pitiful
+rueful
+sad
+saddening
+sorrowful
+wailing
+wistful
+woeful
+poignant
+adj. affecting, painful
+agitating
+agonizing
+bitter
+distressing
+disturbing
+emotional
+heartbreaking
+heartrending
+impressive
+intense
+moving
+passionate
+pathetic
+perturbing
+piteous
+pitiful
+sad
+sentimental
+sorrowful
+touching
+upsetting
+regrettable
+adj. unfortunate, wrong
+afflictive
+calamitous
+deplorable
+dire
+disappointing
+distressing
+dreadful
+grievous
+heartbreaking
+ill-advised
+lamentable
+pitiable
+pitiful
+sad
+shameful
+unfavorable
+unhappy
+woeful
+remorseful
+adj. guilty, ashamed
+apologetic
+attritional
+chastened
+compunctious
+conscience-stricken
+contrite
+guilt-ridden
+mournful
+penitent
+penitential
+regretful
+repentant
+rueful
+sad
+self-reproachful
+sorrowful
+sorry
+rueful
+adj. regretful
+apologetic
+ashamed
+deplorable
+lamentable
+mournful
+remorseful
+repentant
+sad
+sorrowful
+sorry
+saturnine
+adj. gloomy
+blue
+cheerless
+dejected
+depressed
+desolate
+despondent
+dispirited
+dour
+down
+down in the dumps
+forlorn
+glum
+grave
+hopeless
+in low spirits
+in the dumps
+low
+melancholy
+miserable
+moping
+morose
+sad
+solemn
+sorrowful
+sulky
+sullen
+unhappy
+woebegone
+woeful
+sorrowful
+adj. very upset; grieving
+affecting
+afflicted
+dejected
+depressed
+disconsolate
+distressing
+doleful
+dolent
+full of sorrow
+grievous
+heartbroken
+heartrending
+heavy-hearted
+hurting
+in mourning
+in pain
+in sorrow
+lamentable
+lugubrious
+melancholy
+miserable
+mournful
+painful
+piteous
+plaintive
+rueful
+ruthful
+sad
+sick at heart
+singing the blues
+sorry
+tear-jerking
+tearful
+unhappy
+woebegone
+woeful
+wretched
+sorry
+adj. despicable, pathetic
+abject
+base
+beggarly
+cheap
+contemptible
+deplorable
+despisable
+disgraceful
+dismal
+distressing
+inadequate
+insignificant
+mean
+miserable
+paltry
+piteous
+pitiable
+pitiful
+poor
+sad
+scruffy
+scummy
+scurvy
+shabby
+shoddy
+small
+trifling
+trivial
+unimportant
+vile
+worthless
+wretched
+subdued
+adj. quiet, controlled
+chastened
+crestfallen
+dejected
+dim
+domestic
+domesticated
+down in the mouth
+downcast
+grave
+hushed
+inobtrusive
+low-key
+mellow
+moderated
+muted
+neutral
+out of spirits
+repentant
+repressed
+restrained
+sad
+serious
+shaded
+sober
+soft
+softened
+solemn
+submissive
+subtle
+tasteful
+tempered
+toned down
+unobtrusive
+tearful
+adj. crying, very upset
+bawling
+blubbering
+blubbery
+distressed
+dolorous
+in tears
+lachrymose
+lamentable
+lamenting
+moist
+mournful
+pathetic
+pitiable
+pitiful
+poignant
+sad
+sniveling
+sobbing
+sorrowful
+teary
+watery
+weeping
+weepy
+wet
+whimpering
+woeful
+touching
+adj. affecting, moving emotionally
+compassionate
+emotive
+heart-rending
+heartbreaking
+impressive
+melting
+mind-blowing
+pathetic
+piteous
+pitiable
+pitiful
+poignant
+responsive
+sad
+stirring
+stunning
+sympathetic
+tear-jerking
+tender
+wistful
+tragic
+adj. catastrophic, very bad
+adverse
+anguished
+appalling
+awful
+calamitous
+cataclysmic
+crushing
+deadly
+deathly
+deplorable
+desolate
+destructive
+dire
+disastrous
+doleful
+dreadful
+fatal
+fateful
+forlorn
+grievous
+grim
+hapless
+harrowing
+heart-rending
+heartbreaking
+ill-fated
+ill-starred
+lamentable
+miserable
+mournful
+painful
+pathetic
+pitiable
+pitiful
+ruinous
+sad
+shocking
+sorrowful
+terrible
+unfortunate
+unhappy
+woeful
+wretched
+unsavory
+adj. revolting, sickening
+acid
+bitter
+bland
+disagreeable
+distasteful
+dull
+flavorless
+gross
+icky
+insipid
+lousy
+nasty
+nauseating
+no good
+objectionable
+obnoxious
+offensive
+rancid
+rank
+raunchy
+repellent
+repugnant
+repulsive
+rough
+sad
+shady
+sharp
+shifty
+sour
+stinking
+tart
+tasteless
+tough
+unappetizing
+unpalatable
+unpleasant
+wrong
+wistful
+adj. daydreaming, longing
+contemplative
+desirous
+disconsolate
+dreaming
+dreamy
+forlorn
+hopeless
+meditative
+melancholy
+mournful
+musing
+nostalgic
+pensive
+plaintive
+reflective
+sad
+thoughtful
+wishful
+yearning
+woebegone
+adj. depressed, troubled
+black
+bleak
+blue
+bummed out
+chapfallen
+cheerless
+crestfallen
+dejected
+despondent
+disconsolate
+dismal
+dispirited
+doleful
+down
+down-in-the-mouth
+downcast
+downhearted
+dreary
+forlorn
+gloomy
+grief-stricken
+grim
+hangdog
+hurting
+in pain
+long-faced
+low
+lugubrious
+melancholy
+miserable
+mournful
+sad
+shot down
+sorrowful
+unhappy
+woeful
+wretched
+demoralized
+adj. dispirited
+sad
+shaken
+unnerved
+weakened
+heartbroken
+adj. melancholy
+brokenhearted
+doleful
+grief-stricken
+heartsick
+heartsore
+sad
+sorrowful
+down in the mouth
+adj. feeling dejected or sad
+chapfallen
+dejected
+depressed
+discouraged
+down in the dumps
+in the doldrums
+in the dumps
+low in spirits
+low-spirited
+sad
+seasonal affective disorder
+noun. depression in a season, mainly winter
+melancholia
+mild depression
+sad
+seasonal depression
+lamenting
+adj. sobbing
+lamentable
+mournful
+regretting
+sad
+sorrowful
+unfortunate
+languishing
+adj. pensive
+longing
+melancholy
+pining
+sad
+unhappy
+lugubrious
+adj. dismal
+gloomy
+mournful
+pensive
+sad
+sorrowful
+lachrymose
+adj. crying
+sad
+tearful
+teary
+weeping
+weepy
+weeping
+adj. dolorous
+grievous
+mournful
+sad
+sorrowful
+lugubrious
+adj. melancholy
+bleak
+depressing
+dismal
+doleful
+dour
+funeral
+gloomy
+morose
+mournful
+sad
+sorrowful
+woebegone
+woful
+heavyhearted
+adj. saddened
+dejected
+depressed
+despondent
+doleful
+melancholy
+sad
+unhappy
+distressing
+adj. upsetting
+afflictive
+deplorable
+distressful
+dreadful
+fearful
+frightening
+grievous
+nagging
+painful
+poignant
+regrettable
+sad
+troublesome
+woeful
+dispiriting
+adj. depressing
+cheerless
+crushing
+demoralizing
+discouraging
+disheartening
+dismal
+gloomy
+joyless
+melancholy
+sad
+saddening
+dysphoric
+adj. depressed
+blue
+dejected
+desolate
+dispirited
+distressed
+down
+downcast
+downhearted
+dull
+gloomy
+low
+melancholic
+melancholy
+morose
+sad
+unhappy
+irremediable
+adj. hopeless
+bad
+beyond recall
+cureless
+cynical
+dejected
+demoralized
+despairing
+desperate
+despondent
+disconsolate
+discouraging
+downhearted
+fatal
+forlorn
+gone
+goner
+helpless
+ill-fated
+impossible
+impracticable
+in despair
+incurable
+irredeemable
+irreparable
+irreversible
+irrevocable
+lost
+menacing
+no-win
+past hope
+pointless
+sad
+shot down
+sinister
+sunk
+threatening
+tragic
+unachievable
+unavailing
+unfortunate
+unmitigable
+up the creek
+useless
+vain
+woebegone
+worsening
+low-grade
+adj. inferior
+average
+bad
+base
+common
+déclassé
+fair
+good-for-nothing
+hack
+imperfect
+indifferent
+junk
+lemon
+lousy
+low-quality
+low-rent
+mean
+mediocre
+middling
+ordinary
+paltry
+poorer
+sad
+second-class
+second-rate
+shabby
+sorry
+substandard
+tawdry
+two-bit
+worse
+wretched
+low-quality
+adj. inferior
+average
+bad
+base
+common
+déclassé
+fair
+good-for-nothing
+hack
+imperfect
+indifferent
+junk
+lemon
+lousy
+low-grade
+low-rent
+mean
+mediocre
+middling
+ordinary
+paltry
+poorer
+sad
+second-class
+second-rate
+shabby
+sorry
+substandard
+tawdry
+two-bit
+worse
+wretched
+melancholic
+adj. depressed
+at
+bad
+bleeding
+blue
+bummed out
+cast-down
+crestfallen
+crummy
+dejected
+desolate
+despondent
+destroyed
+disconsolate
+dispirited
+down
+down and out
+down in the dumps
+down in the mouth
+downcast
+downhearted
+dragged
+dull
+dysphoric
+fed up
+gloomy
+glum
+grim
+heavy-hearted
+hurting
+in a blue funk
+in pain
+in the dumps
+in the pits
+in the toilet
+let down
+low
+low-down
+low-spirited
+lugubrious
+melancholy
+moody
+morose
+on a downer
+pessimistic
+ripped
+sad
+sob story
+spiritless
+taken down
+torn up
+tristful
+unhappy
+weeping
+wistful
+woebegone
+penitential
+adj. remorseful
+apologetic
+attritional
+chastened
+compunctious
+conscience-stricken
+contrite
+guilt-ridden
+mournful
+penitent
+regretful
+repentant
+rueful
+sad
+self-reproachful
+sorrowful
+sorry
+pitiable
+adj. pitiful
+abject
+affecting
+afflicted
+arousing
+base
+beggarly
+cheap
+cheerless
+comfortless
+commiserative
+compassionate
+contemptible
+deplorable
+despicable
+dismal
+distressed
+distressing
+grievous
+heartbreaking
+heartrending
+inadequate
+insignificant
+joyless
+lamentable
+low
+mean
+miserable
+mournful
+moving
+paltry
+pathetic
+piteous
+poor
+rueful
+ruthful
+sad
+scurvy
+shabby
+sorrowful
+sorry
+stirring
+suffering
+tearful
+touching
+vile
+woeful
+worthless
+wretched
+ruthful
+adj. pitiful
+abject
+affecting
+afflicted
+arousing
+base
+beggarly
+cheap
+cheerless
+comfortless
+commiserative
+compassionate
+contemptible
+deplorable
+despicable
+dismal
+distressed
+distressing
+grievous
+heartbreaking
+heartrending
+inadequate
+insignificant
+joyless
+lamentable
+low
+mean
+miserable
+mournful
+moving
+paltry
+pathetic
+piteous
+pitiable
+poor
+rueful
+sad
+scurvy
+shabby
+sorrowful
+sorry
+stirring
+suffering
+tearful
+touching
+vile
+woeful
+worthless
+wretched
+second-class
+adj. inferior
+average
+bad
+base
+common
+déclassé
+fair
+good-for-nothing
+hack
+imperfect
+indifferent
+junk
+lemon
+lousy
+low-grade
+low-quality
+low-rent
+mean
+mediocre
+middling
+ordinary
+paltry
+poorer
+sad
+second-rate
+shabby
+sorry
+substandard
+tawdry
+two-bit
+worse
+wretched
+teary
+adj. tearful
+bawling
+blubbering
+blubbery
+distressed
+dolorous
+in tears
+lachrymose
+lamentable
+lamenting
+moist
+mournful
+pathetic
+pitiable
+pitiful
+poignant
+sad
+sniveling
+sobbing
+sorrowful
+watery
+weeping
+weepy
+wet
+whimpering
+woeful
+tenebrific
+adj. gloomy
+black
+bleak
+blue
+blue funk
+broody
+chapfallen
+cheerless
+crabbed
+crestfallen
+dark
+dejected
+depressed
+desolate
+despondent
+disconsolate
+dismal
+dispirited
+dour
+down in the dumps
+down in the mouth
+downcast
+downhearted
+dragged
+dreary
+forlorn
+glum
+in low spirits
+in the dumps
+joyless
+low
+melancholy
+mirthless
+miserable
+moody
+moping
+mopish
+morose
+mournful
+oppressed
+pessimistic
+sad
+saturnine
+solemn
+somber
+sulky
+sullen
+surly
+ugly
+unhappy
+weary
+woebegone
+woeful
+tristful
+adj. depressed
+at
+bad
+bleeding
+blue
+bummed out
+cast-down
+crestfallen
+crummy
+dejected
+desolate
+despondent
+destroyed
+disconsolate
+dispirited
+down
+down and out
+down in the dumps
+down in the mouth
+downcast
+downhearted
+dragged
+dull
+dysphoric
+fed up
+gloomy
+glum
+grim
+heavy-hearted
+hurting
+in a blue funk
+in pain
+in the dumps
+in the pits
+in the toilet
+let down
+low
+low-down
+low-spirited
+lugubrious
+melancholic
+melancholy
+moody
+morose
+on a downer
+pessimistic
+ripped
+sad
+sob story
+spiritless
+taken down
+torn up
+unhappy
+weeping
+wistful
+woebegone

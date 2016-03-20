@@ -1,0 +1,1425 @@
+26	sicken v. & adj.repel, unsavoriness, pain
+25	nauseate v.repel, dislike, pain
+23	hatred n.dislike, abhorrence, aversion
+22	repel v.dislike, pain, like
+21	antipathy n.dislike, aversion, animosity
+21	aversion n.dislike, animosity, hate
+20	offend v.detest, displease, repel
+19	dislike n.hatred, aversion, abhorrence
+19	revolt v. & n.aversion, repulsion, repel
+18	distaste n.dislike, aversion, apathy
+18	loathing n.hate, aversion, repulsion
+17	abhorrence n.dislike, loathing, aversion
+16	repugnance n.dislike, aversion, repulsion
+16	shock v. & n.detest, repel, surprise
+13	animosity abhorrence, ageism, dislike
+13	detestation n.dislike, aversion, repulsion
+13	displease v.detest, unhappy, repel
+13	nausea n.aversion, repulsion, dislike
+12	abomination n.aversion, repulsion, dislike
+12	hate n.dislike, antipathy, abhorrence
+12	repulse v.repel, sick
+11	repulsion n.antipathy, dislike, hate
+11	revulsion n.aversion, repulsion
+10	enmity n.hate
+10	sickness n.loathing, aversion, repulsion
+9	annoy bother, bear, bush
+9	gross out v. & phr. v.repel,    
+9	pall v.repel, bore, tire
+8	disrelish n.dislike, loathing
+8	disturb v.repel, displease
+8	outrage v. & n.repel
+8	scandalize v.detest, repel, calumniate
+7	disinclination n.dislike, antipathy, calm
+7	put off v. & phr. v.repel,    
+7	surfeit n. & v.loathing, aversion, repulsion
+7	turn one's stomach  & v  , repel, dislike
+6	abominate v.detest, repel
+6	antagonism n.hate
+6	appal v. & adj.pain
+6	disenchant v.repel, pain
+6	horrify v.pain, scare
+6	odium n.
+6	upset v.repel
+5	abhor v.detest
+5	contempt n.
+5	horror n.dislike, fear, revulsion
+5	make one sick v. & nauseate, repel, pain
+5	tire v.exhaust, weary
+5	turn off v. & phr. v.repel,    
+4	anger v.displease
+4	appall v.pain
+4	boredom n.weariness, disinterest
+4	bother v.repel, harass, annoy
+4	displeasure n.dislike
+4	dissatisfaction n.dislike
+4	gorge loathing
+4	hostility n.
+4	satiate detest
+4	turn the stomach , pain, unsavoriness
+3	allergy
+3	animus n.
+3	annoyance
+3	bore
+3	churn up v. v  
+3	disaffection n.hate
+3	indisposition n.dislike
+3	insult v.repel
+3	irk v.repel
+3	jar v. & n.displease
+3	pique v.repel
+3	reluct v.repel
+3	satiety n.aversion, repulsion, weariness
+3	scandalise detest
+3	turn dislike
+2	averseness dislike
+2	cold sweat dislike,    
+2	depress
+2	detest v.
+2	disappoint v.displease
+2	disapproval n.dislike
+2	disfavor n.
+2	dishearten
+2	distress
+2	drive
+2	execration n.
+2	fulsomeness n.
+2	grate v.displease
+2	make sick , dislike
+2	malice n.hate
+2	mortal horror dislike,    
+2	objection n.aversion, repulsion
+2	pain
+2	rancor n.hate
+2	satiation n.aversion, repulsion
+2	shuddering dislike
+2	weary v.tired
+1	acrimony n.hate
+1	affront
+1	aggrieve v.displease
+1	appalled
+1	attack n.
+1	be repulsive v.repel
+1	bitterness n.hate
+1	cloy on v.repel
+1	cool
+1	corrode pain
+1	creeping flesh
+1	daze n. & v.
+1	dejection weariness
+1	dement n.
+1	despite
+1	discontent n.
+1	disdain n.
+1	disease
+1	disesteem n.
+1	disgusting adj.
+1	disillusion
+1	disinterest
+1	disliking
+1	dismay n.
+1	disquiet v.
+1	disrespect
+1	distract v.
+1	ennui weariness
+1	fill with loathing v.repel
+1	frustrate
+1	give offense
+1	gloom dejection
+1	hatefulness n.aversion, repulsion
+1	indifference
+1	irritate v.displease
+1	loathe v.
+1	misanthropy
+1	mislike n.dislike
+1	nauseation n.aversion, repulsion
+1	nauseousness n.aversion, repulsion
+1	nettle v.upset, provoke
+1	offend morals of v.repel
+1	opposition n.
+1	peeve n.dislike
+1	phobia n.fear
+1	provoke v.displease
+1	queasiness n.dislike
+1	reluctance n.
+1	rile v.displease
+1	scorn n.
+1	sedition
+1	snub
+1	taedium vitae , dejection, weariness
+1	trouble
+1	wamble dislike
+1	weariness dejection
+1	wrath n.hate
+0	abominable adj.
+0	abuse
+0	affect
+0	afflict
+0	alienate
+0	anhedonia dejection
+0	apathy indifference
+0	astonish v.
+0	astound v.
+0	atrocious adj.
+0	aversation dislike
+0	awe n.
+0	be abhorrent of 
+0	be antipathetic to 
+0	be averse to 
+0	be unpalatable , unsavoriness
+0	beat back v. & phr. v  
+0	bestial adj.
+0	bowl over v.
+0	brush off phr. v. & v  
+0	byssa dislike
+0	canine madness dislike,    
+0	cause dislike dislike,    
+0	chagrin n.
+0	cheat v.
+0	cloy v.overfill
+0	come down v. & phr. v  
+0	contumely n.
+0	corrupt adj.
+0	curse
+0	disaffect
+0	disapprove
+0	discompose v.
+0	discourage
+0	disfavour n.
+0	disgustedly adv.
+0	disgustingly adv.
+0	disincline dislike
+0	dismal adj.
+0	distastefully adv.
+0	distractedly adv.
+0	dreadful adj.
+0	drive back phr. v. & v  
+0	dumbfound v.
+0	dumfound v.
+0	excite dislike dislike,    
+0	fastidiously adv.
+0	ferocious adj.
+0	fiendish adj.
+0	fierce adj.
+0	fight off v. & phr. v  
+0	flabbergast v.
+0	flagitious adj.
+0	force back phr. v. & v  
+0	foully adv.
+0	freak
+0	freeze the blood pain,    
+0	frighten v.
+0	frightful adj.
+0	gall and wormwood dislike,    
+0	get sick 
+0	ghastly adj.
+0	ghoulish adj.
+0	give a turn v.
+0	give pain dislike,    
+0	gnaw pain
+0	grievous adj.
+0	grim adj.
+0	grisly adj.
+0	gruesome adj.
+0	heaviness dejection
+0	heinous adj.
+0	hideous adj.
+0	horrible adj.
+0	how adv.
+0	hydrophobia dislike
+0	ill-will
+0	ill will n.
+0	impact n.
+0	impair v.
+0	imperfectly adv.
+0	incense v.angry
+0	indispose v.
+0	infestivity dejection
+0	iniquity
+0	jolt v.
+0	loath adj.
+0	loathsomeness n.
+0	make ill
+0	make one shudder pain,    
+0	make revolution 
+0	mal du pays , dejection
+0	malignancy
+0	mortal antipathy dislike,    
+0	nauseating adj.
+0	nauseatingly adv.
+0	nauseously adv.
+0	nuisance
+0	numb v.
+0	offendedly adv.
+0	offensively adv.
+0	outrageous adj.
+0	overpower v.
+0	paralyse v.
+0	perturb v.
+0	petrify v.
+0	plague
+0	prejudice n.belief, intolerance, information
+0	push back v. & phr. v  
+0	put
+0	put out
+0	queasily adv.
+0	rankle pain
+0	refuse
+0	regret dejection
+0	render sick dislike,    
+0	repellence n.hate
+0	repellency n.hate
+0	repellently adv.
+0	repugnancy n.hate
+0	repugnant adj.
+0	repulsively adv.
+0	revoltingly adv.
+0	revolve v.
+0	rooted antipathy dislike,    
+0	rooted horror dislike,    
+0	scare v.
+0	shake v.
+0	shocking adj.
+0	sicken of v. & phr. v  
+0	sickener dislike
+0	sickening adj.
+0	sickeningly adv.
+0	squeamishly adv.
+0	stagger v.
+0	startle v.
+0	stun v.
+0	stupefy v.
+0	suffocate v.
+0	surprise v.
+0	terrify v.
+0	throw v.
+0	tired adj.
+0	tired of phr. v. & v  
+0	tiredly adv.
+0	traumatize v.
+0	turn one off
+0	turn stomach
+0	unbalance v.
+0	uncongeniality
+0	unhinge v.
+0	unsavory dislike
+0	unsettle v.
+0	vicious adj.
+0	vile adj.
+0	vilely adv.
+0	villainous adj.
+0	wearily adv.
+0	whereby adv.
+0	wick n.
+0	wicked adj.
+0	wickedness
+0	would nauseate 
+0	xenophobia dislike
+More words related to disgust
+aversion
+noun. dislike; opposition
+abhorrence
+abomination
+allergy
+animosity
+antagonism
+antipathy
+detestation
+disfavor
+disgust
+disinclination
+disliking
+displeasure
+dissatisfaction
+distaste
+dread
+hate
+hatred
+having no use for
+horror
+hostility
+indisposition
+loathing
+odium
+reluctance
+repugnance
+repulsion
+revulsion
+unwillingness
+boredom
+noun. disinterest; weariness
+apathy
+detachment
+disgust
+distaste
+doldrums
+dullness
+ennui
+fatigue
+flatness
+incuriosity
+indifference
+irksomeness
+jadedness
+lack of interest
+lassitude
+lethargy
+listlessness
+monotony
+pococurantism
+sameness
+taedium vitae
+tediousness
+tedium
+tiresomeness
+unconcern
+world-weariness
+yawn
+bother
+verb. harass, annoy; give trouble
+afflict
+aggravate
+agitate
+alarm
+badger
+bedevil
+bore
+browbeat
+carp at
+concern
+cross
+discommode
+disconcert
+disgust
+dismay
+displease
+disquiet
+distress
+disturb
+eat
+embarrass
+exacerbate
+exasperate
+goad
+grate on
+grieve
+harry
+hinder
+hurt
+impede
+inconvenience
+insult
+intrude upon
+irk
+irritate
+molest
+nag
+needle
+nudge
+pain
+perplex
+perturb
+pester
+pick on
+plague
+provoke
+pursue
+put out
+ride
+scare
+spite
+tantalize
+taunt
+tease
+torment
+trouble
+upset
+vex
+worry
+cloy
+verb. overfill
+disgust
+fill
+glut
+gorge
+jade
+nauseate
+pall
+sate
+satiate
+satisfy
+sicken
+stall
+stodge
+suffice
+surfeit
+weary
+dislike
+noun. antagonism, hatred toward something
+animosity
+animus
+antipathy
+aversion
+deprecation
+detestation
+disapprobation
+disapproval
+disesteem
+disfavor
+disgust
+disinclination
+displeasure
+dissatisfaction
+distaste
+enmity
+hostility
+indisposition
+loathing
+objection
+offense
+opposition
+prejudice
+repugnance
+displease
+verb. make unhappy
+aggravate
+anger
+annoy
+antagonize
+bother
+cap
+chagrin
+cool
+curdle
+cut to the quick
+disappoint
+discontent
+disgruntle
+disgust
+disoblige
+dissatisfy
+enrage
+exasperate
+fret
+frustrate
+gall
+hurt
+incense
+irk
+irritate
+nettle
+offend
+perplex
+pique
+play dirty
+provoke
+put out
+repel
+revolt
+rile
+roil
+sound
+turn off
+upset
+vex
+wing
+worry
+zing
+More words related to disgust
+distaste
+noun. dislike, hate
+abhorrence
+antipathy
+aversion
+detestation
+disfavor
+disgust
+disinclination
+displeasure
+disrelish
+dissatisfaction
+hatred
+horror
+hostility
+indisposition
+loathing
+repugnance
+repulsion
+revolt
+revulsion
+hate
+noun. extreme dislike
+abhorrence
+abomination
+anathema
+animosity
+animus
+antagonism
+antipathy
+aversion
+black beast
+bother
+bugbear
+bête noire
+detestation
+disgust
+enmity
+execration
+frost
+grievance
+gripe
+hatred
+horror
+hostility
+ill will
+irritant
+loathing
+malevolence
+malignity
+mislike
+nasty look
+no love lost
+nuisance
+objection
+odium
+pain
+rancor
+rankling
+repugnance
+repulsion
+resentment
+revenge
+revulsion
+scorn
+spite
+trouble
+venom
+hatred
+noun. severe dislike
+abhorrence
+abomination
+acrimony
+alienation
+allergy to
+animosity
+animus
+antagonism
+antipathy
+aversion
+bitterness
+coldness
+contempt
+detestation
+disapproval
+disfavor
+disgust
+displeasure
+distaste
+enmity
+envy
+execration
+grudge
+hard feelings
+hate
+horror
+hostility
+ignominy
+ill will
+invidiousness
+loathing
+malevolence
+malice
+malignance
+militancy
+no use for
+odium
+pique
+prejudice
+rancor
+repugnance
+repulsion
+revenge
+revulsion
+scorn
+spite
+spleen
+venom
+horrify
+verb. scare
+affright
+alarm
+appall
+chill off
+consternate
+daunt
+disgust
+dismay
+frighten
+intimidate
+outrage
+petrify
+scare to death
+shake
+shock
+sicken
+terrify
+terrorize
+horror
+noun. fear, revulsion
+abhorrence
+abomination
+alarm
+antipathy
+apprehension
+aversion
+awe
+chiller
+consternation
+detestation
+disgust
+dislike
+dismay
+dread
+fright
+hate
+hatred
+loathing
+monstrosity
+panic
+repugnance
+terror
+trepidation
+incense
+verb. make very angry
+anger
+ask for it
+bother
+disgust
+egg on
+enrage
+exasperate
+excite
+fire up
+get a rise out of
+get under one's skin
+inflame
+infuriate
+ire
+irritate
+mad
+madden
+make blood boil
+make see red
+provoke
+rile
+umbrage
+loathing
+noun. abhorrence
+contempt
+detestation
+disgust
+dislike
+enmity
+hatred
+repugnance
+revulsion
+nausea
+noun. sickness in stomach; revulsion
+abhorrence
+aversion
+biliousness
+disgust
+hatred
+loathing
+offense
+qualm
+qualms
+queasiness
+regurgitation
+rejection
+repugnance
+retching
+squeamishness
+vomiting
+nettle
+verb. provoke, upset
+annoy
+chafe
+disgust
+disturb
+exasperate
+fret
+get
+goad
+harass
+huff
+incense
+insult
+irritate
+miff
+peeve
+pester
+pet
+pique
+put out
+rile
+roil
+ruffle
+snit
+stew
+sting
+tease
+tiff
+vex
+offend
+verb. displease, insult
+affront
+aggrieve
+anger
+annoy
+antagonize
+be disagreeable
+disgruntle
+disgust
+disoblige
+distress
+disturb
+exasperate
+fret
+gall
+horrify
+hurt
+irritate
+jar
+miff
+nauseate
+nettle
+outrage
+pain
+pique
+provoke
+repel
+repulse
+rile
+shock
+sicken
+sin
+slight
+slur
+snub
+sting
+transgress
+trespass
+turn one off
+upset
+vex
+wound
+zing
+pall
+verb. bore, tire
+become dull
+become tedious
+cloy
+disgust
+fill
+glut
+gorge
+jade
+sate
+satiate
+sicken
+surfeit
+weary
+phobia
+noun. fear
+anxiety
+aversion
+avoidance
+awe
+detestation
+disgust
+dislike
+distaste
+dread
+fear
+hang-up
+hatred
+horror
+irrationality
+loathing
+neurosis
+obsession
+repulsion
+resentment
+revulsion
+terror
+thing
+thing about
+prejudice
+noun. belief without basis, information; intolerance
+ageism
+animosity
+antipathy
+apartheid
+aversion
+bad opinion
+bias
+bigotry
+chauvinism
+contemptuousness
+detriment
+discrimination
+disgust
+dislike
+displeasure
+disrelish
+enmity
+foregone conclusion
+illiberality
+injustice
+jaundiced eye
+mindset
+misjudgment
+narrow-mindedness
+one-sidedness
+partiality
+pique
+preconceived notion
+preconception
+prejudgment
+prepossession
+racism
+repugnance
+revulsion
+sexism
+slant
+spleen
+tilt
+twist
+umbrage
+unfairness
+warp
+xenophobia
+repel
+verb. induce aversion
+disgust
+give a pain in neck
+make sick
+offend
+put off
+reluct
+repulse
+revolt
+sicken
+turn off
+turn one's stomach
+repulse
+verb. make sick
+disdain
+disgust
+disregard
+give a pain
+rebuff
+refuse
+reject
+reluct
+repel
+revolt
+sicken
+snub
+spurn
+turn down
+turn off
+shock
+verb. completely surprise
+abash
+agitate
+anger
+antagonize
+appall
+astound
+awe
+bowl over
+daze
+disgust
+dismay
+displease
+disquiet
+disturb
+electrify
+flabbergast
+flood
+floor
+give a turn
+hit like ton of bricks
+horrify
+insult
+jar
+jolt
+knock out
+nauseate
+numb
+offend
+outrage
+overcome
+overwhelm
+paralyze
+revolt
+rock
+scandalize
+shake
+shake up
+sicken
+stagger
+startle
+stun
+stupefy
+throw a curve
+traumatize
+unsettle
+sicken
+verb. revolt, make ill
+affect
+afflict
+derange
+disgust
+disorder
+gross out
+nauseate
+offend
+reluct
+repel
+repulse
+turn
+turn one's stomach
+unhinge
+unsettle
+upset
+tire
+verb. exhaust, weary
+annoy
+bore
+burn out
+bush
+collapse
+crawl
+debilitate
+deject
+depress
+disgust
+dishearten
+dispirit
+displease
+distress
+drain
+droop
+drop
+enervate
+ennui
+exasperate
+fag
+fail
+faint
+fatigue
+flag
+fold
+give out
+go stale
+grow weary
+harass
+irk
+irritate
+jade
+nauseate
+overburden
+overstrain
+overtax
+overwork
+pain
+pall
+peter out
+poop out
+prostrate
+put to sleep
+sap
+sicken
+sink
+strain
+tax
+vex
+weaken
+wear
+wear down
+wear out
+wilt
+worry
+yawn
+turn
+verb. sicken
+derange
+discompose
+disgust
+disorder
+make one sick
+nauseate
+revolt
+unbalance
+undo
+unhinge
+unsettle
+upset
+weary
+verb. make tired
+annoy
+bore
+burden
+cause ennui
+cloy
+debilitate
+depress
+disgust
+dishearten
+distress
+drain
+droop
+drowse
+enervate
+enfeeble
+exasperate
+exhaust
+fade
+fag
+fail
+fall off
+fatigue
+flag
+glut
+grow tired
+harass
+have had enough
+irk
+jade
+leave one cold
+lose interest
+make discontented
+nauseate
+oppress
+overwork
+pain
+plague
+sap
+sicken
+sink
+strain
+take it out of
+tax
+tire
+tire out
+try the patience of
+tucker out
+vex
+weaken
+wear down
+wear out
+weigh
+repugnance
+noun. aversion
+abhorrence
+antipathy
+disgust
+dislike
+distaste
+hatred
+hostility
+objection
+revulsion
+scandalize
+verb. calumniate
+asperse
+backbite
+bad-mouth
+belie
+belittle
+blackball
+blackguard
+condemn
+decry
+defame
+denigrate
+deprecate
+detract
+disgrace
+disgust
+dishonor
+disparage
+embarrass
+lampoon
+libel
+malign
+offend
+outrage
+revile
+shock
+slander
+traduce
+vilify
+repellence
+noun. hate
+abhorrence
+abomination
+anathema
+animosity
+animus
+antagonism
+antipathy
+aversion
+black beast
+bother
+bugbear
+bête noire
+detestation
+disgust
+enmity
+execration
+frost
+grievance
+gripe
+hatred
+horror
+hostility
+ill will
+irritant
+loathing
+malevolence
+malignity
+mislike
+nasty look
+no love lost
+nuisance
+objection
+odium
+pain
+rancor
+rankling
+repellency
+repugnance
+repugnancy
+repulsion
+resentment
+revenge
+revulsion
+scorn
+spite
+trouble
+venom
+repellency
+noun. hate
+abhorrence
+abomination
+anathema
+animosity
+animus
+antagonism
+antipathy
+aversion
+black beast
+bother
+bugbear
+bête noire
+detestation
+disgust
+enmity
+execration
+frost
+grievance
+gripe
+hatred
+horror
+hostility
+ill will
+irritant
+loathing
+malevolence
+malignity
+mislike
+nasty look
+no love lost
+nuisance
+objection
+odium
+pain
+rancor
+rankling
+repellence
+repugnance
+repugnancy
+repulsion
+resentment
+revenge
+revulsion
+scorn
+spite
+trouble
+venom
+repugnancy
+noun. hate
+abhorrence
+abomination
+anathema
+animosity
+animus
+antagonism
+antipathy
+aversion
+black beast
+bother
+bugbear
+bête noire
+detestation
+disgust
+enmity
+execration
+frost
+grievance
+gripe
+hatred
+horror
+hostility
+ill will
+irritant
+loathing
+malevolence
+malignity
+mislike
+nasty look
+no love lost
+nuisance
+objection
+odium
+pain
+rancor
+rankling
+repellence
+repellency
+repugnance
+repulsion
+ass-jabber
+ass-pirate 
+assbandit 
+assfuck 
+anus
+assfucker 
+asshopper 
+assnigger -
+asspirate 
+sand nigger 
+sandnigger 
+shit - poop
+assjacker -
+shithouse - 
+asslick -
+shitspitter -
+slut 
+
+skank 
+slutbag 
+shitstain 
+skank 
+shitter 
+skeet 
+shittiest 
+spic 
+
+spick 
+
+asslicker 
+nigaboo 
+
+nigger 
+ho 
+
+hoe
+gay - 
+
+gayass 
+
+gaybob - 
+
+gaydo -
+gook 
+
+gringo
+gayfuck -
+
+fag 
+
+fagbag 
+
+fagfucker
+
+faggit 
+brotherfucker 
+
+bullshit -
+
+
+
+
+butt-pirate 
+
+buttfucka 
+
+buttfucker 
+faggot
+dickfucker -
+fuckbutter
+faggotcock 
+cocksniffer 
+bitchtits 
+cocksucker
+fagtard 
+dickhole -
+dike 
+dyke -
+dildo
+dickjuice 
+dicksucker 
+
+dicksucking 
+
+dicktickler
+dickmilk -
+
+dickmonger
+fatass 
+
+
+flamer 
+gayfuckist -
+
+gaylord -
+
+gaytard 
+
+gaywad
+homo 
+niggers 
+lameass - loser
+niglet
+assgoblin 
+assbanger
+
+penisbanger
+
+penisfucker 
+piss
+penispuffer
+queef 
+
+queer 
+
+queerbait
+
+queerhole
+
+	

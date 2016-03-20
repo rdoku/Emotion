@@ -1,0 +1,1881 @@
+37	dread n. & v.scared, alarm, apprehension
+27	fright n.apprehension, alarm
+25	anxiety n.alarm, apprehension, expectation
+25	apprehension n.expectation
+22	terror n.alarm, apprehension
+21	worry n. & v.scared, alarm, apprehension
+21	alarm n.
+21	dismay n. , alarm, distress
+20	panic n. & v.alarm, apprehension, fright
+18	horror n.alarm, apprehension
+17	trepidation n.alarm, apprehension, anxiety
+14	concern n.alarm, apprehension, discontent
+13	awe n.alarm, apprehension, state
+13	consternation n.alarm, apprehension, distress
+13	fearfulness n.
+12	uneasiness n.alarm, apprehension, upset
+12	cowardice n.alarm, apprehension, timidity
+12	misgiving n.alarm, apprehension
+11	disquiet n.worry, upset
+11	phobia n.alarm, apprehension, fear
+11	reverence n.alarm, apprehension, state
+10	apprehend v. , scared
+10	distress n.alarm, apprehension
+10	doubt n. & v.alarm, apprehension, lack
+10	foreboding n.alarm, apprehension, expectation
+10	nervousness n.
+9	apprehensiveness n.expectation
+9	timidity n.alarm, apprehension
+9	agitation n.alarm, apprehension
+9	angst n.alarm, apprehension
+9	funk n.alarm, apprehension, cowardice
+9	qualm n.alarm, apprehension
+9	revere v.behaviour
+9	scare n. & v.alarm, apprehension
+9	venerate v.behaviour
+8	anticipate v.scared
+8	aversion n.alarm, apprehension
+8	be afraid   & v , scared
+8	care n.interest, concern
+8	cold feet n. &  alarm, apprehension, slang
+8	veneration n.state
+7	disquietude n.alarm, apprehension
+7	hesitation n.
+7	respect n.others
+7	unease n.alarm, apprehension
+6	despair n.alarm, apprehension
+6	diffidence n.lack, hesitancy
+6	expect v.scared
+6	faintheartedness n.alarm, apprehension
+6	falter v.scared,  
+6	perturbation n.
+6	presentiment n.alarm, apprehension, anticipation
+6	solicitude n.
+6	start v.action, scared
+6	suspicion n.alarm, apprehension
+5	chickenheartedness n.alarm, apprehension
+5	foresee v.scared
+5	intimidation n.
+5	quail v.action, scared, cowardice
+5	quake action
+5	shy v.scared, cowardice
+5	spinelessness n.
+5	suspect v.scared
+5	suspense n.expectation
+5	tremble v.action, scared
+4	abhorrence n.alarm, apprehension
+4	anxiousness
+4	be afraid of   & v. & phr. v 
+4	be frightened v. &  scared,  
+4	cravenness n.
+4	flinch v.scared, cowardice
+4	have qualms v. &  scared,  
+4	misdoubt v. , doubt
+4	mistrust n. & v.doubtfulness, doubt
+4	nightmare n.alarm, apprehension
+4	revulsion n.alarm, apprehension
+4	trouble n.
+4	vexation n.
+3	cold sweat n. &  alarm, apprehension,  
+3	cowardliness
+3	cower v.action, scared, cowardice
+3	discomposure n.alarm, apprehension
+3	avoid v.scared, cowardice
+3	bête noire n.alarm, apprehension
+3	be disquieted v. &  scared,  
+3	blanch v.action, scared
+3	bugbear n.ghost
+3	cringe action
+3	distrust n.
+3	disturbance n.
+3	esteem
+3	feel concern v. &  scared,  
+3	inquietude discontent
+3	jitters n.alarm, apprehension
+3	shrink v.action, scared
+3	shrink from v.
+3	shun v.scared
+3	timorousness
+3	trembling n.alarm, apprehension
+3	tremor n.alarm, apprehension
+3	uncertainty n.expectation
+3	upset
+3	wonder n.amazement
+2	unmanliness n.cowardice
+2	affright n.
+2	afraid adj.
+2	aid n.
+2	alarming
+2	anguish n.
+2	anticipation n.expectation
+2	apprehensive adj.
+2	attention n.
+2	awful adj.
+2	balance
+2	caution n.
+2	compunction
+2	concernment
+2	dire
+2	eye askance  
+2	fearful adj.
+2	fret v.scared
+2	frightful adj.
+2	ghastly
+2	horrible
+2	horrific
+2	imagine
+2	irresolution
+2	nervosity
+2	pusillanimity n.cowardice
+2	qualms n.
+2	quiver v.
+2	regard n.
+2	reservation n.
+2	restlessness
+2	scary adj.
+2	second thoughts n.
+2	sentiment n.emotion
+2	shudder v.scared
+2	shudder at v.
+2	sit upon thorns  
+2	sympathy 
+2	terrible adj.
+2	worriment n.expectation
+2	worship
+2	yellowness
+2	zeal
+1	business n.
+1	charge n.
+1	danger
+1	dreadful adj.
+1	expectation n.belief, anticipation, expectation
+1	abject
+1	abject fear  , cowardice
+1	abulia
+1	admiration
+1	all-overs
+1	anger n.emotion
+1	antipathy n.
+1	anxiety hysteria
+1	anxiety neurosis
+1	anxious bench
+1	anxious concern
+1	anxious seat
+1	appalling
+1	astound
+1	atrocious
+1	attack of nerves  
+1	back down
+1	baleful
+1	baseness cowardice
+1	bashful adj.
+1	be anxious v.scared
+1	be apprehensive v.scared
+1	be fearful v.
+1	be in awe v.scared
+1	be upset  
+1	believe v.
+1	bizarre
+1	bleak
+1	bloodcurdling
+1	boding evil
+1	bogey
+1	bogy
+1	break out in a sweat v.scared
+1	buck fever
+1	cankerworm of care  
+1	case of nerves  
+1	chicken-liveredness
+1	chilling
+1	cold
+1	condemned
+1	consider v.
+1	consideration n.
+1	consternate
+1	contemplation n.expectation
+1	corrupt
+1	courage
+1	coward
+1	cowardly adj.
+1	creeps n.alarm, apprehension
+1	creepy
+1	crouch v.scared
+1	damned
+1	dare not v.scared
+1	dastardliness
+1	daunt
+1	daunting
+1	debate
+1	deliberate
+1	demented
+1	demur
+1	desolate
+1	desperation n.hopelessness
+1	despondency
+1	detestation n.
+1	dignify
+1	direful
+1	disbelieve
+1	discomfort
+1	dislike n.
+1	dismal
+1	disturbing
+1	doomed
+1	dour
+1	dreadfully adv.
+1	dreary
+1	dusk
+1	eerie
+1	envisioning n.expectation
+1	excessive irritability
+1	expectancy n.expectation
+1	faintheart
+1	faintness
+1	fear and trembling   & n 
+1	fearsome adj.
+1	feeblemindedness
+1	feebleness
+1	fidgetiness
+1	forbidding
+1	forebodingness
+1	forebodings
+1	forethought n.
+1	foul
+1	frailty
+1	frighten v.
+1	frightened v.
+1	frightening
+1	get cold feet  
+1	ghostly
+1	ghoulish
+1	gloom
+1	gloomy
+1	grave
+1	grim
+1	grisly
+1	gruesome
+1	guardianship n.
+1	gutlessness
+1	hair-raising
+1	hang back
+1	haunted
+1	have butterflies v.scared
+1	headache n.
+1	heebie-jeebies n.
+1	hem and haw  
+1	henheartedness
+1	hesitate
+1	hideous
+1	hopeless
+1	horrendous
+1	horrid
+1	horrify
+1	horrifying
+1	hover
+1	hum and haw  
+1	idolatry
+1	idolise v.
+1	idolize v.
+1	ill-fated
+1	ill-omened
+1	ill-starred
+1	inauspicious
+1	infernal
+1	infirmity
+1	inhospitable
+1	jib
+1	lest
+1	lily-liveredness
+1	loathing n.
+1	looming
+1	lose courage v.scared
+1	lost
+1	maintenance n.
+1	malaise
+1	malice
+1	malignant
+1	menacing
+1	midnight
+1	milksopism
+1	milksoppiness
+1	milksoppishness
+1	misgive
+1	mood n.emotion
+1	morbid
+1	morbid excitability
+1	murky
+1	mysterious
+1	nerves
+1	nervous stomach
+1	nervous strain
+1	nervous tension
+1	night
+1	ominous adj.
+1	overanxiety
+1	panickiness
+1	pause
+1	perilous adj.
+1	pessimism n.expectation
+1	pessimistic
+1	petrifying
+1	pigeonheartedness
+1	pins and needles  
+1	pliability
+1	poltroonery cowardice
+1	ponder
+1	precaution n.
+1	presumption n.expectation
+1	prise v.
+1	pucker
+1	pull back
+1	pusillanimous adj.
+1	quail at v.
+1	quaver v.scared
+1	queasiness n.
+1	recreancy n.alarm, apprehension
+1	retreat
+1	sadness n.emotion
+1	scruple
+1	sensation n.emotion
+1	shade
+1	shadows
+1	shadowy
+1	shady
+1	shilly-shally
+1	shock n.
+1	shocking
+1	sinful
+1	sinister
+1	softness
+1	somber
+1	soul-destroying
+1	sour
+1	spell of nerves  
+1	spine-chilling
+1	spine-tingling
+1	stage fever  
+1	stage fright
+1	stampede
+1	stand aghast
+1	state of nerves  
+1	stew
+1	stick at
+1	stickle
+1	stop to consider  
+1	straddle the fence  
+1	strain
+1	strain at
+1	strange
+1	stress n.physical, pressure
+1	strike
+1	temperment n.emotion
+1	tending
+1	tension
+1	terrify v.
+1	terrifying
+1	think twice
+1	think twice about  
+1	threat
+1	threatening
+1	tic
+1	timidness
+1	tremendous
+1	trepidity
+1	tutelage n.
+1	twilight
+1	twitching
+1	uncanny
+1	unearthly
+1	unlucky adj.
+1	unmanfulness
+1	unnatural
+1	unnerving
+1	unquietness
+1	upkeep n.
+1	vellication
+1	vile
+1	want of confidence  
+1	weak-mindedness
+1	weak will
+1	weakheartedness
+1	weakness
+1	weird
+1	white feather n. &  cowardice,  
+1	wicked
+1	willies n.
+1	wilt v.scared
+1	withdraw
+1	wretched
+1	yield
+0	fidgets
+0	macabre
+0	yellow
+0	account 
+0	alarmingly adv.
+0	amazingly adv.
+0	anxious adj.
+0	appallingly adv.
+0	appreciate v.
+0	appreciation
+0	approbation
+0	astonishingly adv.
+0	atrociously adv.
+0	attitude
+0	audacious
+0	avoid as taboo  
+0	awesomely adv.
+0	awfully adv.
+0	be a coward  , cowardice
+0	be alarmed v.
+0	be cowardly  , cowardice
+0	be scared v.
+0	be scared of  
+0	be sorry  
+0	be terrified v.
+0	be terror-stricken v.
+0	be terror-struck v.
+0	bitter adj.
+0	blench at v.
+0	bravery
+0	business concern  
+0	business organization  
+0	butterflies n.
+0	capture v.
+0	dauntlessness
+0	deference
+0	detain v.
+0	devotion
+0	dignity
+0	direly adv.
+0	disinclination
+0	distaste n.
+0	distressingly adv.
+0	disturbingly adv.
+0	doughtiness
+0	eminent adj.
+0	emotional attachment
+0	enormously adv.
+0	estimation
+0	ex-cathedra affirmation
+0	exceedingly adv.
+0	excessive adj.
+0	excessively adv.
+0	excite awe  
+0	excite fear  
+0	execration n.
+0	exempt from despair  hope,  
+0	exempt from distrust  hope,  
+0	exempt from suspicion  hope,  
+0	expertus metuit  
+0	exposure
+0	extraordinarily adv.
+0	extravagant adj.
+0	extremely adv.
+0	extremely nervous  
+0	faint-hearted
+0	faint heart  , cowardice
+0	fair adj.
+0	fall apart v.
+0	fancy
+0	fathom v.
+0	favor
+0	fear of God  
+0	fearfully adv.
+0	fearsomely adv.
+0	  of dread  
+0	fere n.
+0	fetich
+0	fetish
+0	fierce adj.
+0	fight shy  cowardice,  
+0	filled with awe  
+0	fixation
+0	fixe
+0	formidably adv.
+0	fortitudinous
+0	free from despair    
+0	free from distrust   
+0	free from fear  
+0	free from suspicion    
+0	frighteningly adv.
+0	frightfully adv.
+0	fuss
+0	gallant
+0	gamble
+0	gambling
+0	gingerliness
+0	give an alarm  
+0	go to pieces v.
+0	goose bumps cause  
+0	greatly adv.
+0	gutless
+0	gutsiness
+0	gutty
+0	hang-up
+0	hardy
+0	have one's heart in one's mouth   & v.
+0	hazard
+0	hesitant adj.
+0	hideously adv.
+0	honos habet onus  duty,  
+0	hope v.
+0	horrendously adv.
+0	horridly adv.
+0	horrifically adv.
+0	hysteria n.
+0	in a fright  
+0	in fear  
+0	inspire awe  
+0	inspire fear  
+0	inspiring fear  
+0	intrepidity
+0	intuition n.
+0	jim-jams
+0	jitter
+0	jumpy adj.
+0	lacking in courage  
+0	carefulness
+0	catch v.
+0	chicken
+0	chill
+0	collywobbles n.
+0	complex n.problem
+0	content and stable  
+0	courtesy
+0	craven
+0	crawl
+0	cringe at v.
+0	cultism
+0	dangerous adj.
+0	dark
+0	dastardly
+0	dastardness cowardice
+0	dastardy cowardice
+0	lofty adj.
+0	lose one's bottle v.
+0	lose one's nerve v.
+0	loyaute m'oblige  duty,  
+0	majestically adv.
+0	mania
+0	maybe adv.
+0	meanly adv.
+0	menace
+0	mortal funk  
+0	nastily adv.
+0	nervous adj.
+0	obeisance
+0	obsess
+0	obsession
+0	omnia tuta timens  
+0	ovation
+0	painfully adv.
+0	partiality
+0	perhaps adv.
+0	peril
+0	plague
+0	poltroon
+0	precarious adj.
+0	predilection
+0	preoccupation
+0	put in fear  
+0	quake at v.
+0	quirk
+0	raise an alarm  
+0	raise aprehensions  
+0	reaction
+0	realize v.
+0	recognition
+0	recoil from v.
+0	reluctance
+0	reluctant adj.
+0	repugnance n.
+0	repute
+0	reserve
+0	restless adj.
+0	retiring adj.
+0	risk
+0	run away v. & phr. v.cowardice
+0	sainted adj.
+0	scared adj.
+0	sense n.
+0	sheepish adj.
+0	shockingly adv.
+0	show cowardice
+0	shrinking
+0	skulk cowardice
+0	slink cowardice
+0	sneak cowardice
+0	socially timid  
+0	soreness discontent
+0	sound an alarm  
+0	spunkiness
+0	stakes
+0	stoutheartedness
+0	straightforward adj.
+0	strike terror  
+0	superstition n.belief
+0	surprise
+0	sweat
+0	tearfulness
+0	terrifically adv.
+0	terrifyingly adv.
+0	testimonial
+0	throb with terror  
+0	throbbing heart  
+0	timid adj.
+0	timidly adv.
+0	timorous adj.
+0	trauma
+0	tremble at v.
+0	trembling companion
+0	tribute
+0	turn tail  cowardice,  
+A person who is afraid of his/her own shadow is very nervous or easily frightened.
+I've never seen anyone so easily scared. She's afraid of her own shadow!
+bated breath
+If you wait for something with bated breath, you are both anxious and excited about an imminent event.
+We waited with bated breath for the winner to be announced. 
+make your blood run cold
+If something makes your blood run cold, it shocks or scares you a lot.
+The look in the prisoner's eye made my blood run cold!
+break out in a cold sweat
+If you break out in a cold sweat, you begin to perspire a lot, usually from anxiety.
+I get nervous at the dentist's and usually break out in a cold sweat.
+bundle of nerves
+If you describe someone as a bundle of nerves, you mean that they are very nervous, tense or worried.
+My son is doing his driving test today.  Needless to say he's a bundle of nerves!
+butterflies in stomach
+If you have butterflies in your stomach, you are feeling very nervous.
+At the beginning of an exam, I always have butterflies in my stomach.
+can't stand the pace
+If you can't stand the pace, you are unable to do things well when there is a lot of pressure.
+She once worked for a famous fashion designer but she couldn't stand the pace.
+cat on hot bricks
+A person who is like a cat on hot bricks is very nervous or restless.
+The week before the results were published, she was like a cat on hot bricks.
+on the edge of one's seat
+Someone who is on the edge of their seat is very interested in something and fits it both extremely exciting and nerve-wracking.
+Look at Bob! He's on the edge of his seat watching that rugby match!
+get fingers burnt
+If someone gets their fingers burnt, they suffer as a result of an unsuccessful action and are nervous about trying again.
+He got his fingers burnt so badly in the last elections that he decided to withdraw from politics.
+heart in one's mouth
+A person who has their heart in their mouth feels extremely anxious or nervous faced with a dangerous or unpleasant situation.
+Emma had her heart in her mouth when she saw her two-year-old son standing in front of the open window.
+heart misses a beat
+If your heart misses (or skips) a beat, you have sudden feeling of fear or excitement.
+When the lights suddenly went out, my heart missed a beat.
+heebie-jeebies
+A state of apprehension, nervousness or anxiety is called the heebie-jeebies.
+Having to go down to the car park at night gives me the heebie-jeebies.
+hold your breath
+If someone is holding their breath, they are waiting anxiously or excitedly for something to happen or be announced.
+I went for a second interview today - now I'm holding my breath!
+if you can't stand the heat, get out of the kitchen
+This expression means that if you feel that there is too much pressure, you can leave.
+Amid the growing tension, the organiser declared : "If you can't stand the heat, get out of the kitchen!"
+ignorance is bliss
+This means that if you don't know about a problem or unpleasant fact, you won't worry about it.
+I didn't know our neighbour was an escaped prisoner until the police arrived - ignorance is bliss!
+  
+get/have the jitters
+If you get (or have) the jitters, especially before an important event, you become very nervous or anxious and begin to shake.
+Some people get the jitters when they have to make a speech.
+have kittens
+To say that you're going to have kittens is a dramatic way of expressing worry, anxiety or fear.
+His mother nearly had kittens when Alex announced that we wanted to be a trapeze artist.
+jump out of your skin
+If you jump out of your skin, you are extremely surprised or shocked.
+Jane nearly jumped out of her skin when the horse put its head through the kitchen window!
+get your knickers in a twist
+If you get your knickers in a twist, you are anxious, nervous, or angry faced with a difficult situation.
+Don't get  your knickers in a twist!  Everything is under control.
+nerves of steel
+Someone who has nerves of steel is not afraid in difficult or dangerous situations.
+Fire-fighters need to have nerves of steel.
+on pins and needles
+If you are on pins and needles, you are very anxious or nervous about what is going to happen.
+Scott was on pins and needles while he waited for the result of the exam.
+quaking in one's boots
+When someone is extremely scared, it is said that they are quaking in their boots.
+When he saw the crocodiles in the water, he started quaking in his boots.
+scare out of one's wits
+If something scares you out of your wits, it makes you very frightened or worried.
+The feeling that a house is haunted can scare people out of their wits.
+scare daylights out of
+If something scares the (living) daylights out of you, it terrifies you.
+The sudden screaming scared the daylights out of me.
+scared stiff
+Someone who is scared stiff is so frightened that they are unable to move.
+My mother is scared stiff of heights.
+shake like a leaf
+If you shake like a leaf, you tremble with fear or nervousness.
+At the beginning of the interview the candidate was shaking like a leaf.
+struck dumb
+If someone is struck dumb, they are unable to speak because they are so surprised, shocked or frightened by something.
+The accused was struck dumb when the verdict was announced.
+on tenterhooks
+A person who is on tenterhooks is in a state of anxious suspense or excitement.
+The candidates were kept on tenterhooks for hours while the panel deliberated.
+tongue-tied
+If you are tongue-tied, you have difficulty in expressing yourself because you are nervous or embarrassed.
+At the start of the interview I was completely tongue-tied!
+whistle in the dark
+If you whistle in the dark, you try to hide your fear and pretend to be brave in a scary or dangerous situation.
+Bob looks confident but he's just whistling in the dark; he knows he's going to lose his job.
+at your wit's end
+If you are at your wits' end, you are very worried about something and do not know what to do.
+When her son dropped out of school, Susan was at her wit's end.
+3. Prospective Affections
+Synonyms - noun
+
+fear
+apprehensiveness
+care
+mistrust (doubt)
+nervousness
+batophobia
+fear and trembling
+shaking
+ague fit
+heartsinking
+affright
+awe
+consternation
+intimidation
+bugaboo
+Gorgon
+raw head and bloody bones
+alarmist (coward)
+timidity
+fearfulness
+apprehension
+suspicion
+restlessness
+heartquake
+perturbation
+trembling
+cold sweat
+despondency
+affrightment
+terror
+panic
+terrorism
+scarecrow
+mormo
+fee-faw-fum
+diffidence
+solicitude
+misgiving
+qualm
+inquietude
+flutter
+tremor
+throbbing heart
+abject fear (cowardice)
+despair
+boof alarm
+horror
+scare
+reign of terror
+hobgoblin (demon)
+ogre
+bete noire
+want of confidence
+anxiety
+feeze
+hesitation (irresoluion)
+disquietude
+trepidation
+quivering
+palpitation
+mortal funk
+fright
+dread
+dismay
+stampede
+bug bear
+nightmare
+Hurlothrumbo
+enfant terrible
+Synonyms - verbs
+
+fear
+apprehend
+hesitate (be irresolute)
+crouch
+wait upon "
+start
+shrink
+shiver
+shake like an aspen leaf
+quaver
+turn pale
+inspire fear
+raise apprehensions
+feeze
+alarm
+wolf
+fright
+fright from one's propriety
+awe
+harrow up the soul
+horrify
+make one's blood run cold
+make one tremble haunt
+put in bodily fear
+daunt
+discourage
+stand in awe of
+sit upon thorns
+falter
+skulk (cowardice)
+I would "
+wince
+fly (avoid)
+shiver in one's shoes
+tremble like an aspen leaf
+quiver
+blench
+excite fear
+be in a daze
+give an alarm
+startle
+"
+frighten
+fright out of one's senses
+strike all of a heap
+appall
+pile on the agony
+make one's teeth chatter
+prey on the mind
+terrorize
+overawe
+browbeat
+be affraid
+eye askance
+funk
+let "
+take fright
+flinch
+tremble
+shudder
+tremble all over
+quail
+stand aghast
+inspire awe
+bulldoze
+raise an alarm
+scare
+disquiet
+terrify
+fright out of one's wits
+strike an awe into
+unman
+make one's flesh creep
+take away one's breath
+weigh on the mind
+intimidate
+abash
+bully
+have qualms
+distrust (disbelieve)
+cower
+I dare not"
+take alarm
+shy
+shake
+flutter
+quake
+grow pale
+not dare to say one's soul is one's own
+excite awe
+faze
+sound an alarm
+cry "
+dismay
+astound
+fright out of one's seven senses
+strike terror
+petrify
+make one's hair stand on end
+stop one's breath
+put in fear
+cow
+deter
+threaten
+Synonyms - adjectives
+
+fearing
+haunted with the fear of
+timid
+coy
+afraid of one's shadow
+more frightened than hurt
+terror-stricken
+frightened to death
+pale as death
+inspiring fear
+perilous (danger)
+fell
+terrible
+horrible
+awe-inspiring
+frightened
+afeard
+timorous
+faint-hearted
+apprehensive
+aghast
+panic- stricken
+white as a sheet
+pale as ashes
+alarming
+portentous
+dire
+terrific
+horrific
+revolting (painful)
+in fear
+afraid
+nervous
+tremulous
+restless
+awe-stricken
+awestruck
+pale
+breathless
+formidable
+dread
+direful
+tremendous
+ghastly
+Gorgonian
+in a fright
+fearful
+diffident
+shaky
+fidgety
+horror-stricken
+horror-strruck
+pale as a ghost
+in hysterics
+redoubtable
+dreadful
+shocking
+horrid
+awful
+Synonyms - phrases
+
+ante tubam trepidat; horresco referens, one's heart failing one, obstupui steteruntque comae et vox.faucibus haesit [Vergil]
+Antonyms
+
+courage
+COLLAPSE
+More words related to fear
+awe
+noun. amazement
+admiration
+apprehension
+astonishment
+consternation
+dread
+esteem
+fear
+fright
+horror
+regard
+respect
+reverence
+shock
+stupefaction
+terror
+veneration
+wonder
+wonderment
+worship
+care
+noun. personal interest, concern
+affliction
+aggravation
+alarm
+anguish
+annoyance
+anxiety
+apprehension
+bother
+burden
+chagrin
+charge
+consternation
+discomposure
+dismay
+disquiet
+distress
+disturbance
+encumbrance
+exasperation
+fear
+foreboding
+fretfulness
+handicap
+hardship
+hindrance
+impediment
+incubus
+load
+misgiving
+nuisance
+onus
+oppression
+perplexity
+pressure
+responsibility
+solicitude
+sorrow
+stew
+strain
+stress
+sweat
+tribulation
+trouble
+uneasiness
+unhappiness
+vexation
+woe
+worry
+cold feet
+noun. loss of nerve preventing completion of an action
+anxiety
+apprehension
+backing out
+chicken heart
+doubt
+faint heart
+fear
+fear of carrying out an activity
+reservations
+second thoughts
+timidity
+weak knees
+white feather
+yellow streak
+complex
+noun. psychological problem
+a thing about something
+anxiety
+exaggerated reaction
+fear
+fixation
+fixed idea
+hang-up
+idée fixe
+insanity
+mania
+neurosis
+obsession
+phobia
+preoccupation
+repression
+consternation
+noun. dismay, distress
+alarm
+amazement
+anxiety
+awe
+bewilderment
+confusion
+distraction
+dread
+fear
+fright
+horror
+muddle
+muddlement
+panic
+perplexity
+shock
+stupefaction
+terror
+trepidation
+trepidity
+wonder
+cowardice
+noun. timidity
+cold feet
+faintheartedness
+fear
+fearfulness
+funk
+gutlessness
+mousiness
+pusillanimity
+wimpiness
+desperation
+noun. hopelessness
+agony
+anguish
+anxiety
+concern
+dejection
+depression
+desolation
+despair
+despondency
+discomfort
+disconsolateness
+distraction
+distress
+fear
+gloom
+grief
+heartache
+melancholy
+misery
+pain
+pang
+sorrow
+torture
+trouble
+unhappiness
+worry
+diffidence
+noun. hesitancy; lack of confidence
+backwardness
+bashfulness
+constraint
+doubt
+fear
+hesitation
+humility
+insecurity
+meekness
+modesty
+mousiness
+reluctance
+reserve
+self-consciousness
+sheepishness
+shyness
+timidity
+timidness
+timorousness
+unassertiveness
+dismay
+noun. disappointed feeling; distress
+agitation
+alarm
+anxiety
+apprehension
+blue funk
+blues
+bummer
+chagrin
+cold feet
+consternation
+discouragement
+disheartenment
+disillusionment
+downer
+dread
+dumps
+fear
+fright
+funk
+hassle
+horror
+letdown
+panic
+terror
+the blahs
+trepidation
+upset
+disquiet
+noun. worry; mental upset
+ailment
+alarm
+angst
+anxiety
+care
+concern
+concernment
+disquietude
+distress
+disturbance
+fear
+ferment
+foreboding
+fretfulness
+inquietude
+nervousness
+restiveness
+restlessness
+solicitude
+storm
+trouble
+turmoil
+uneasiness
+unrest
+doubt
+noun. lack of faith, conviction; questioning
+agnosticism
+ambiguity
+apprehension
+confusion
+demurral
+difficulty
+diffidence
+dilemma
+disbelief
+discredit
+disquiet
+distrust
+dubiety
+dubiousness
+faithlessness
+faltering
+fear
+hesitancy
+hesitation
+incertitude
+incredulity
+indecision
+irresolution
+lack of confidence
+misgiving
+mistrust
+perplexity
+problem
+qualm
+quandary
+rejection
+reluctance
+scruple
+skepticism
+suspense
+suspicion
+uncertainty
+vacillation
+wavering
+doubt
+verb. lack confidence in; question
+be apprehensive of
+be curious
+be dubious
+be in a quandary
+be puzzled
+be uncertain
+be undetermined
+call in question
+challenge
+demur
+disbelieve
+discredit
+dispute
+distrust
+fear
+fluctuate
+give no credence
+harbor suspicion
+have qualms
+hesitate
+imagine
+impugn
+insinuate
+misdoubt
+misgive
+mistrust
+not buy
+query
+read differently
+scruple
+shilly-shally
+skepticize
+smell a rat
+surmise
+suspect
+take dim view of
+vacillate
+waver
+wonder at
+dread
+verb. anticipate with horror
+apprehend
+be afraid
+cringe
+fear
+have cold feet
+misdoubt
+quake
+shrink from
+shudder
+tremble
+expectation
+noun. belief, anticipation
+apprehension
+assumption
+assurance
+calculation
+chance
+confidence
+conjecture
+design
+expectancy
+fear
+forecast
+hope
+intention
+likelihood
+looking forward
+motive
+notion
+outlook
+possibility
+prediction
+presumption
+probability
+promise
+prospect
+reliance
+supposition
+surmise
+suspense
+trust
+view
+foreboding
+noun. misgiving, bad omen
+anxiety
+apprehension
+apprehensiveness
+augury
+bad vibes
+chill
+dread
+fear
+foreshadowing
+foretoken
+forewarning
+funny feeling
+handwriting on the wall
+portent
+prediction
+premonition
+prenotion
+presage
+presentiment
+prognostic
+prophecy
+sinking feeling
+vibes
+warning
+wind change
+More words related to fear
+fright
+noun. extreme apprehension
+alarm
+cold sweat
+consternation
+dismay
+dread
+fear
+horror
+panic
+quaking
+scare
+shiver
+shock
+terror
+trepidation
+trepidity
+misgiving
+noun. uncertainty
+anxiety
+apprehension
+apprehensiveness
+distrust
+doubt
+fear
+foreboding
+hesitation
+mistrust
+premonition
+prenotion
+presage
+presentiment
+qualm
+reservation
+scruple
+suspicion
+unbelief
+unease
+worry
+mistrust
+noun. doubtfulness
+apprehension
+chariness
+concern
+distrust
+doubt
+dubiety
+dubiosity
+fear
+foreboding
+incertitude
+misgiving
+presentiment
+scruple
+skepticism
+suspicion
+uncertainty
+wariness
+wonder
+mistrust
+verb. doubt
+apprehend
+be wary
+beware
+challenge
+disbelieve
+dispute
+distrust
+fear
+have doubts
+question
+scruple
+suspect
+suspicion
+panic
+noun. extreme fright
+agitation
+alarm
+cold feet
+confusion
+consternation
+crush
+dismay
+dread
+fear
+frenzy
+horror
+hysteria
+jam
+rush
+scare
+stampede
+terror
+trepidation
+phobia
+noun. fear
+anxiety
+aversion
+avoidance
+awe
+detestation
+disgust
+dislike
+distaste
+dread
+fear
+hang-up
+hatred
+horror
+irrationality
+loathing
+neurosis
+obsession
+repulsion
+resentment
+revulsion
+terror
+thing
+thing about
+presentiment
+noun. anticipation, expectation
+apprehension
+apprehensiveness
+discomposure
+disquietude
+disturbance
+fear
+feeling
+feeling in bones
+foreboding
+forecast
+forethought
+funny feeling
+handwriting on wall
+hunch
+intuition
+misgiving
+perturbation
+premonition
+prenotion
+presage
+sinking feeling
+vibes
+worriment
+respect
+noun. admiration given by others
+account
+adoration
+appreciation
+approbation
+awe
+consideration
+courtesy
+deference
+dignity
+esteem
+estimation
+favor
+fear
+homage
+honor
+obeisance
+ovation
+recognition
+regard
+repute
+reverence
+testimonial
+tribute
+veneration
+worship
+reverence
+noun. high opinion of something
+admiration
+adoration
+apotheosis
+approbation
+approval
+awe
+bow
+deference
+deification
+devotion
+devoutness
+esteem
+fealty
+fear
+genuflection
+high esteem
+homage
+honor
+love
+loyalty
+obeisance
+obsequiousness
+piety
+praise
+prostration
+religiousness
+respect
+veneration
+worship
+More words related to fear
+stress
+noun. physical or mental pressure
+affliction
+agony
+alarm
+albatross
+anxiety
+apprehensiveness
+burden
+clutch
+crunch
+disquiet
+disquietude
+distention
+draw
+dread
+expectancy
+extension
+fear
+fearfulness
+ferment
+flutter
+force
+hardship
+hassle
+heat
+impatience
+intensity
+misgiving
+mistrust
+nervous tension
+nervousness
+oppression
+overextension
+passion
+protraction
+pull
+restlessness
+spring
+strain
+stretch
+tautness
+tenseness
+tension
+tensity
+tightness
+traction
+trauma
+trepidation
+trial
+urgency
+worry
+superstition
+noun. belief in sign of things to come
+false belief
+fear
+irrationality
+notion
+shibboleth
+unfounded fear
+trepidation
+noun. anxiety, worry
+agitation
+alarm
+apprehension
+blue funk
+butterflies
+cold feet
+cold sweat
+consternation
+creeps
+dismay
+disquiet
+disturbance
+dread
+emotion
+excitement
+fear
+fright
+goose bumps
+horror
+jitters
+nervousness
+palpitation
+panic
+perturbation
+shock
+terror
+trepidity
+uneasiness
+worriment
+wonder
+noun. amazement
+admiration
+astonishment
+awe
+bewilderment
+concern
+confusion
+consternation
+curiosity
+doubt
+fascination
+fear
+incredulity
+jar
+jolt
+marveling
+perplexity
+perturbation
+puzzlement
+reverence
+shock
+skepticism
+start
+stupefaction
+stupor
+surprise
+suspicion
+uncertainty
+wondering
+wonderment
+worry
+noun. anxiety, trouble
+anguish
+annoyance
+apprehension
+bad news
+care
+concern
+disquiet
+distress
+disturbance
+doubt
+fear
+headache
+heartache
+irritation
+misery
+misgiving
+nag
+pain
+perplexity
+pest
+plague
+presentiment
+problem
+torment
+torture
+trial
+uncertainty
+uneasiness
+vexation
+woe
+worriment
+uneasiness
+noun. upset
+agitation
+alarm
+angst
+anxiety
+apprehension
+compunction
+constraint
+disbelief
+discomfort
+discontent
+displeasure
+disquiet
+disquietude
+doubt
+dread
+dyspathy
+dysphoria
+embarrassment
+fear
+inquietude
+instability
+malaise
+misgiving
+nervousness
+penitence
+perturbation
+qualm
+queasiness
+remorse
+restlessness
+scruple
+trouble
+uncertainty
+unrest
+worry
+bugbear
+noun. ghost
+apprehension
+bete noire
+bogey
+bogy
+boogeyman
+bugaboo
+dread
+fear
+goblin
+gremlin
+hobgoblin
+loup-garou
+ogre
+problem
+scare
+specter
+terror
+threat
+wraith
+gutlessness
+noun. cowardice
+chickenheartedness
+cold feet
+cowardliness
+cravenness
+dastardliness
+faint-heartedness
+faintheartedness
+fear
+fearfulness
+funk
+mousiness
+pusillanimity
+unmanliness
+wimpiness
+misdoubt
+verb. doubt
+be apprehensive of
+be curious
+be dubious
+be in a quandary
+be puzzled
+be uncertain
+be undetermined
+call in question
+challenge
+demur
+disbelieve
+discredit
+dispute
+distrust
+fear
+fluctuate
+give no credence
+harbor suspicion
+have one's doubts
+have qualms
+hesitate
+imagine
+impugn
+insinuate
+misgive
+mistrust
+not buy
+query
+question
+read differently
+scruple
+shilly-shally
+skepticize
+smell a rat
+surmise
+suspect
+take dim view of
+vacillate
+waver
+wonder
+wonder at
+More words related to fear
+pusillanimity
+noun. cowardice
+chickenheartedness
+cold feet
+cowardliness
+cravenness
+dastardliness
+faint-heartedness
+faintheartedness
+fear
+fearfulness
+funk
+gutlessness
+mousiness
+unmanliness
+wimpiness
+unmanliness
+noun. cowardice
+chickenheartedness
+cold feet
+cowardliness
+cravenness
+dastardliness
+faint-heartedness
+faintheartedness
+fear
+fearfulness
+funk
+gutlessness
+mousiness
+pusillanimity
+wimpiness
+

@@ -1,0 +1,2250 @@
+provoke  mad
+rage fury
+enrage 
+exasperate resentment mad upset
+fury rage temper acerbity
+irritate resentment mad displease
+annoy mad displease
+ire upset
+indignation fury annoyance resentment
+infuriate resentment
+incense  mad
+vex bother mad distress
+madden 
+wrath  rage
+chafe resentment mad annoy
+nettle resentment mad
+offend displease insult resentment
+rage fury feeling
+pique resentment mad
+resentment fury annoyance hatred
+rile resentment
+displease unhappy, mad
+exasperation resentment,  , provocation
+inflame resentment, mad
+irk 
+irritation  , annoyed
+choler 
+annoyance irritated,  , annoyed
+	affront insult, involve, mad
+	outrage  & mad,  , annoyed
+	rankle mad, annoy, irritate
+	displeasure resentment,  , annoyed
+	aggravate resentment, mad
+	burn mad
+resentment, mad, anger, angry
+	fret resentment, mad
+	ruffle resentment, mad, upset
+	vexation annoyed
+mad
+	bother displease
+	fume    , resentment
+	heat  fury, acerbity
+	peeve bother, annoy, irritate
+	temper fit,   
+	agitation attack, affect
+	animosity resentment
+	antagonism  annoyed
+	embitter resentment, mad, alienate
+	storm out rage
+	umbrage   mad annoyed
+	blow up
+	bug 
+	burn up mad
+	irritability annoyed, irascibility
+	see red 
+	seethe 
+	spleen resentment, hate
+	upset
+	angriness 
+	antagonize mad, oppose
+	boil over  & get angry
+	bristle mad
+	dander  annoyed
+	distress agitate, annoy, aggravate
+	dudgeon intense
+	hatred 
+	hit the ceiling
+	huff bad mood, resentment, place
+	irate 
+	lose one's temper
+	mad annoyed
+	miff
+	lose cool temper
+	agitate mad
+	bait mad
+	chagrin annoyed
+	disgust displease
+	dissatisfy displease
+	disturb displease
+	drive hatred anger 
+	flare up 
+	frustrate 
+	goad 
+	harass 
+	hurt
+	irateness 
+	kindle resentment
+	put out upset inconvenience
+	rant 
+	shock surprise displease
+	 annoyed
+	tantrum  throw fit,   of anger, annoyed
+	vehemence disagree
+	violence  annoyed
+	cold towards
+	feeling enraged
+	acrimony
+	aggravation 
+    angry
+	bile 
+	blow one's stack 
+	boil over
+	discontent
+	enmity  annoyed
+	exacerbate mad
+	explode 
+	 resentment
+	get mad
+	lose temper cool 
+	wrath 
+	 displease
+	under skin
+	ingrate
+	hostility
+	ill temper 
+	impatience annoyed, unwillingness
+	infuriation annoyed
+	insult resentment
+	make blood boil 
+	pain 
+	plague 
+	rave mad
+	reach boiling point
+	rouse stimulate
+	sadness 
+	soreness  annoyed
+	steam up mad
+	stir up   
+	tick off 
+	trouble  
+	vials of wrath  
+	wrathfulness
+	flare
+	asperity
+	bad temper  
+	bitterness 
+	craze upset, mad, disturb
+	cross mad
+	disappoint displease
+	disgruntle disappoint
+	dissatisfaction 
+ inability
+	envy 
+	fit  , rage, heat
+	flip
+	flip out 
+	ill humor   annoyed
+	incite 
+	irascibility  , annoyed, temper
+	madness 
+	make angry  
+	make see red 
+	make sore mad
+	melancholy
+	offense
+		outburst fit, rage
+	peevishness  , annoyed
+	perturb
+	pester 
+	petulance  , annoyed
+	pride
+	raise hackles 
+	rancour 
+	repel displease
+	sensation
+	sorrow
+	stack
+	steam 
+	stir 
+	worry 
+	frenzy upset provoke
+	misery
+	aggravated
+	aggrieve displease
+	angry 
+	animation agitation, disquiet, stress
+	antipathy 
+	bad 
+	furious
+	biliousness
+	blow a fuse  
+	blow a gasket  
+	blow one's top
+	breach
+	breathe fire 
+	bridle
+	bridle up
+	bristle up
+	causticity
+	commotion
+	concern
+	conniption  , annoyed
+	corrosiveness
+	crossness 
+	deadly sin
+	delight disturb, animate, agitate
+	depress
+	desire
+	despair
+	despondency
+	disapprobation  , annoyed
+	discontentment
+	dislike
+	disrelish
+	distaste
+	distemper  , annoyed
+	disturbance
+	drive crazy 
+	drive mad 
+	enragement
+	envenom poison, resentment
+	fire disturb, animate, delight
+	flare-up fit,  , rage
+	furor excitability
+	fussiness 
+	get angry  
+	get back up 
+	get goat 
+	get hot under the collar
+	get sore
+	get under skin 
+	gluttony
+	greed
+	grief
+	gula
+	gut reaction
+	hackles
+	hassle 
+	hysterics 
+	ill nature
+	ill will  &  
+	intensity  , rage, wrath
+	invidia
+	jar displease
+	lose one's cool
+	make mad
+	make one's blood boil cause
+	make one hot under the collar cause
+	mood bad
+	nag 
+	outbreak seizure, spasm
+	perturbation 
+	pet peeve
+	pettishness
+	piss off 
+	put one's back up 
+	rancor
+	rankling  , annoyed
+	remorse 
+	repulse
+	unresponsiveness 
+	roil upset
+	scandalize displease
+	shame 
+	slight 
+	sloth
+	snit  
+	sourness
+	stimulate 
+	sting resentment
+	sullenness
+	superbia
+	tee off 
+	temperment 
+	tempt mad
+	torment 
+	tremor 
+	turn off
+	unhappiness 
+	unsettle
+	venom poison, hating
+	vexed 
+	vicious 
+	work up 
+	fester 
+	fly off the handle
+	fretfulness 
+	acerbate mad
+	acerbity
+	aggravating 
+	agony
+	angrily 
+	angry at  
+	animate 
+	apathy
+	avenge revenge
+	bad blood bitterness
+	badger
+	become incensed
+	become infuriated
+	birse
+	bitter resentment resentment,  
+	blood
+	bluster 
+	boil with indignation resentment,  
+	boil with rage resentment,  
+	boisterous 
+	bore
+	breathe revenge revenge,  
+	breathe vengeance revenge,  
+	bring down
+	brown off 
+	burn with fire  
+	burst forth
+	burst with anger resentment,  
+	fit annoyed
+	 anger resentment,  
+	cheese off 
+	confuse
+	contravene 
+	craving
+	crossly 
+	dander up 
+	defy 
+	depressed and discontented  
+	desperate 
+	desperation 
+	discompose resentment
+	dismay
+	distraction 
+	drive crazy 
+	resentment
+	egg on mad
+	embarrass 
+	enkindle 
+	erupt
+	fad
+	fascination
+	ferocious 
+	ferocity 
+	fierce 
+	fiercely 
+	fierceness 
+	fire up 
+	flushed with anger   
+	flushed with rage   
+	fluster 
+	fly out  
+	foam with rage  
+	foment 
+	frantic 
+	freak
+	freak out
+	frenzied 
+	frustration 
+	furious 
+	furiously 
+	furore 
+	galling 
+	get at
+	get back 
+	get hackles up 
+	get in hair 
+	get on nerves 
+	get on one's nerves mad
+	get up nose 
+	get worked up
+	give aggro
+	give offence 
+	give offense  resentment,  
+	give umbrage  resentment,  
+	gloom
+	go berserk
+	go crazy
+	go mad
+	grudge 
+	harshness
+	hate 
+	have revenge   
+	heart-burning
+	heated 
+	high dudgeon 
+	hissy fit  , annoyed
+	hot temper
+	humiliate 
+	hurt   
+	ignite 
+	ill-humor
+	impetuous 
+	in a fume  
+	in a fury   
+	in a huff  resentment,  
+	in a    resentment,  
+	in a pucker  resentment,  
+	in a rage  resentment,  
+	in a stew  resentment,  
+	in a taking  resentment,  
+	in a temper  
+	in a way  resentment
+	in cold blood   
+	in high dudgeon  resentment,  
+	indignant 
+	indignantly   
+	infatuation
+	intoxication 
+	invite 
+	irate 
+	irately
+	jealousy 
+	tirade
+	kindle wrath  resentment,  
+	lash up 
+	livid 
+	lividity
+	lividness
+	lose it
+	maddening 
+	madly ad
+	make hackles rise 
+	malice 
+	mania
+	mantle resentment
+	motivate 
+	move 
+	nervousness
+	obsession
+	offence 
+	phrensy 
+	pick at 
+	pick on 
+	prod 
+	provocation 
+	push
+	put
+	put back up 
+	put monkey up 
+	quiver with rage  resentment,  
+	raffle
+	raging 
+	raging   
+	raise anger  resentment,  
+	raise hell mad
+	raise ire 
+	raise  hackles 
+	rally 
+	rankle   resentment,  
+	rapture
+	rattle 
+	raving 
+	reaction
+	resentfully ad
+	revenge revenge
+	rise
+	rub
+	rub the wrong way irritate
+	ruffle feathers  
+	short fuse temper
+	sin illegal, action
+	slow burn  , annoyed
+	snub 
+	spirit
+	spite
+	spur 
+	stamp the foot  resentment,  
+	stamp with rage  resentment,  
+	stir the blood  resentment,  
+	stir up bile  resentment,  
+	strong emotion  , phrase
+	strong interest  , phrase
+	suffering
+	sulkiness sourness
+	swell with rage  resentment,  
+	take fire  resentment,  
+	take offense  
+	take one's revenge  revenge,  
+	taking offense  
+	tearing     
+	 temper
+	throw a tantrum
+	tiff  , annoyed
+	tirade abuse, outburst
+	touch off 
+	transport
+	turn rusty  
+	unwarmheartedness
+	up in arms  resentment,  
+	urge 
+	vehement 
+	vent one's rage  resentment,  
+	vent one's spleen  resentment,  
+	vibes feeling,   revenge
+	virulence  
+	whip up 
+	widen the breach  resentment,  
+	wind-up
+	wound resentment
+	wrathful 
+	wrathful indignation  resentment,  
+	wrathfully 
+	wreak  vengeance  revenge,  
+acrimonious
+boiling
+convulsed with rage
+fierce
+foaming
+furibund
+indignant
+irate
+offended
+raging
+sore
+sulky
+up in arms
+waxy
+wrathful
+angry
+boiling over
+cross
+fiery
+foaming at the mouth
+furious
+infuriate
+ireful
+on one's high ropes
+relentless
+spleenful
+surly
+violent
+wild
+wrought
+begrumpled
+burning
+diversivolent
+flushed with anger
+fractious
+glowering
+iracund
+mad with rage
+rabid
+savage
+splenetic
+thrunched
+virulent
+worked up
+zowerswopped
+bitter
+cantankerous
+flushed with rage
+fuming
+horn
+irascent
+madbrained
+rageful
+set against
+stomachous
+umbrageous
+warm
+wrath
+abuse
+anger
+annoy
+confront
+criticize
+displease
+dispraise
+dump on
+encounter
+face
+give a zinger
+give the cold shoulder
+hit where one lives
+meet
+offend
+outrage
+pique
+provoke
+put down
+slander
+slight
+taunt
+vex
+acrimony
+anger
+animosity
+animus
+antagonism
+antipathy
+bad chemistry
+bad feeling
+bad vibes
+bad will
+bitterness
+disaccord
+dislike
+distrust
+enmity
+hard feelings
+hatred
+hostility
+ill will
+ill-disposedness
+malevolence
+malice
+mutual hostility
+nastiness
+odium
+oppugnancy
+oppugnation
+personality conflict
+rancor
+resentment
+unfriendliness
+venom
+anger
+annoy
+badger
+bother
+gall
+harass
+heckle
+hound
+irk
+irritate
+nag
+persecute
+provoke
+tease
+torment
+abrade
+anger
+annoy
+bother
+exasperate
+exercise
+fret
+fume
+gall
+grate
+harass
+incense
+inflame
+irk
+irritate
+itch
+offend
+provoke
+rage
+rasp
+rub
+ruffle
+scrape
+scratch
+vex
+worry
+aggravate
+anger
+annoy
+antagonize
+bother
+cap
+chagrin
+cool
+curdle
+cut to the quick
+disappoint
+discontent
+disgruntle
+disgust
+disoblige
+dissatisfy
+enrage
+exasperate
+fret
+frustrate
+gall
+hurt
+incense
+irk
+irritate
+nettle
+offend
+perplex
+pique
+play dirty
+provoke
+put out
+repel
+revolt
+rile
+roil
+sound
+turn off
+upset
+vex
+wing
+worry
+zing
+acerbate
+acidulate
+aggravate
+anger
+annoy
+bitter
+bother
+disaffect
+disillusion
+envenom
+exacerbate
+exasperate
+irritate
+make bitter
+make resentful
+poison
+sour
+venom
+worsen
+T-off
+aggravate
+anger
+ask for it
+exasperate
+get under skin
+hack
+incense
+incite
+inflame
+infuriate
+ire
+irritate
+madden
+make blood boil
+make see red
+needle
+provoke
+rile
+steam up
+umbrage
+whip up
+T-off
+aggravate
+agitate
+anger
+annoy
+bug
+disturb
+drive up the wall
+embitter
+enrage
+exacerbate
+excite
+gall
+get
+get under one's skin
+incense
+inflame
+infuriate
+irk
+irritate
+madden
+make waves
+needle
+nettle
+peeve
+pique
+rankle
+rile
+roil
+rouse
+try the patience of
+vex
+work up
+aggravation
+anger
+annoyance
+besetment
+bother
+botheration
+displeasure
+exacerbation
+fury
+ire
+irritant
+irritation
+nuisance
+passion
+pest
+pique
+plague
+rage
+resentment
+vexation
+wrath
+anger
+blow up
+boil
+bristle
+burn
+chafe
+chomp at the bit
+get hot
+get steamed up
+rage
+rant
+rave
+seethe
+smoke
+storm
+anger
+annoyance
+dudgeon
+miff
+offense
+passion
+perturbation
+pet
+pique
+rage
+snit
+stew
+temper
+tiff
+umbrage
+agitation
+anger
+annoyance
+ants in pants
+anxiety
+avidity
+disquietude
+eagerness
+edginess
+excitement
+expectancy
+fretfulness
+haste
+hastiness
+heat
+impetuosity
+intolerance
+irritability
+irritableness
+nervousness
+quick temper
+rashness
+restiveness
+restlessness
+shortness
+snappiness
+suspense
+uneasiness
+vehemence
+violence
+anger
+ask for it
+bother
+disgust
+egg on
+enrage
+exasperate
+excite
+fire up
+get a rise out of
+get under one's skin
+inflame
+infuriate
+ire
+irritate
+mad
+madden
+make blood boil
+make see red
+provoke
+rile
+umbrage
+T-off
+aggravate
+anger
+enrage
+exasperate
+incense
+ire
+irritate
+madden
+make blood boil
+provoke
+rile
+umbrage
+anger
+annoy
+bother
+craze
+derange
+distract
+drive crazy
+drive insane
+drive out of mind
+drive to distraction
+enrage
+exasperate
+frenzy
+incense
+inflame
+infuriate
+ire
+irritate
+make see red
+pester
+possess
+provoke
+shatter
+steam up
+umbrage
+unbalance
+unhinge
+upset
+vex
+affront
+aggrieve
+anger
+annoy
+antagonize
+be disagreeable
+disgruntle
+disgust
+disoblige
+distress
+disturb
+exasperate
+fret
+gall
+horrify
+hurt
+irritate
+jar
+miff
+nauseate
+nettle
+outrage
+pain
+pique
+provoke
+repel
+repulse
+rile
+shock
+sicken
+sin
+slight
+slur
+snub
+sting
+transgress
+trespass
+turn one off
+upset
+vex
+wound
+zing
+agitation
+anger
+attack
+convulsion
+eruption
+excitement
+explosion
+fit
+flare-up
+frenzy
+frothing
+fuming
+furor
+fury
+hysterics
+outbreak
+outburst
+passion
+rage
+violence
+T-off
+aggravate
+anger
+bug
+bum
+burn
+disturb
+drive up the wall
+exasperate
+gall
+get
+get one's goat
+hack
+irk
+irritate
+miff
+nettle
+pique
+provoke
+put out
+rile
+roil
+rub the wrong way
+steam
+vex
+provoke
+verb. make angry
+abet
+abrade
+affront
+aggravate
+anger
+annoy
+bother
+bug
+chafe
+enrage
+exasperate
+exercise
+foment
+fret
+gall
+get
+get on one's nerves
+get under one's skin
+grate
+hit where one lives
+incense
+incite
+inflame
+infuriate
+insult
+irk
+irritate
+madden
+make blood boil
+make waves
+nag
+offend
+perturb
+pique
+put out
+raise
+rile
+roil
+ruffle
+set
+set on
+try one's patience
+upset
+vex
+whip up
+work into lather
+work up
+put out
+verb. upset, irritate; inconvenience
+aggravate
+anger
+annoy
+bother
+burn
+confound
+discomfit
+discommode
+discompose
+disconcert
+discountenance
+disoblige
+displease
+dissatisfy
+disturb
+embarrass
+exasperate
+gall
+get
+grate
+harass
+impose upon
+incommode
+inflame
+irk
+nettle
+perturb
+provoke
+put on the spot
+rile
+roil
+trouble
+vex
+rankle
+verb. annoy, irritate
+aggravate
+anger
+bother
+chafe
+embitter
+exasperate
+fester
+fret
+gall
+get one's goat
+harass
+hurt
+inflame
+irk
+mortify
+nettle
+obsess
+pain
+pester
+plague
+rile
+torment
+vex
+rub the wrong way
+verb. irritate
+aggravate
+anger
+annoy
+bother
+bug
+disturb
+drive up the wall
+enrage
+get on one's nerves
+get to
+get under one's skin
+infuriate
+irk
+needle
+pester
+rattle
+ruffle one's feathers
+ruffle
+verb. upset, irritate
+abrade
+agitate
+anger
+annoy
+bluster
+bother
+browbeat
+bully
+chafe
+confuse
+cow
+disconcert
+disquiet
+disturb
+excite
+floor
+flummox
+flurry
+fluster
+fret
+fuddle
+gall
+get to
+harass
+intimidate
+irk
+nettle
+peeve
+perturb
+provoke
+put off
+put out
+rattle
+rattle one's cage
+shake up
+stir
+stump
+throw into tizzy
+torment
+trouble
+unsettle
+vex
+wear
+worry
+tantrum
+noun. fit
+anger
+animosity
+conniption
+dander
+flare-up
+hemorrhage
+huff
+hysterics
+outburst
+storm
+temper
+temper tantrum
+wax
+storm
+noun. commotion, turmoil
+agitation
+anger
+annoyance
+assault
+attack
+barrage
+blitz
+blitzkrieg
+bluster
+bomb
+bombardment
+broadside
+burst
+bustle
+cannonade
+clamor
+clatter
+convulsion
+disturbance
+drumfire
+furor
+fury
+fusillade
+hail
+hassle
+hysteria
+offensive
+onset
+onslaught
+outbreak
+outburst
+outcry
+passion
+perturbation
+pother
+rabidity
+racket
+rage
+rampancy
+roar
+row
+ruction
+rumpus
+rush
+salvo
+squall
+stir
+strife
+temper
+tumult
+upheaval
+violence
+volley
+More words related to anger
+temper
+noun. angriness; bad mood
+acerbity
+anger
+annoyance
+bad humor
+cantankerousness
+crossness
+dander
+excitability
+fit
+fretfulness
+furor
+fury
+grouchiness
+heat
+hotheadedness
+huffiness
+ill-humor
+impatience
+irascibility
+ire
+irritability
+irritation
+miff
+outburst
+passion
+peevishness
+petulance
+pugnacity
+rage
+resentment
+sensitivity
+short fuse
+slow burn
+snit
+sourness
+stew
+sullenness
+surliness
+tantrum
+tartness
+tear
+tiff
+tizzy
+touchiness
+wax
+tirade
+noun. abuse, outburst
+anger
+berating
+censure
+condemnation
+denunciation
+diatribe
+dispute
+fulmination
+harangue
+invective
+jeremiad
+lecture
+malediction
+philippic
+ranting
+revilement
+screed
+sermon
+tongue-lashing
+vituperation
+umbrage
+noun. personal displeasure
+anger
+annoyance
+chagrin
+exasperation
+fury
+grudge
+high dudgeon
+huff
+indignation
+injury
+ire
+irking
+irritation
+miff
+nettling
+offense
+pique
+provoking
+rage
+resentment
+sense of injury
+vexation
+wrath
+venom
+noun. poison; hating
+acidity
+acrimony
+anger
+bane
+bitterness
+contagion
+gall
+grudge
+hate
+hatred
+ill will
+infection
+malevolence
+malice
+maliciousness
+malignity
+rancor
+spite
+spitefulness
+spleen
+taint
+toxin
+virulence
+virus
+vex
+verb. distress, bother
+abrade
+afflict
+aggravate
+agitate
+anger
+annoy
+be at
+chafe
+depress
+displease
+disquiet
+disturb
+eat
+embarrass
+exasperate
+fret
+gall
+get in one's hair
+get under one's skin
+give a bad time
+give a hard time
+grate on
+harass
+harry
+hassle
+infuriate
+irk
+irritate
+molest
+needle
+nettle
+offend
+peeve
+perplex
+pester
+pique
+plague
+provoke
+put out
+rasp
+ride
+rile
+tease
+tick off
+torment
+trouble
+turn off
+upset
+worry
+roil
+verb. upset
+agitate
+anger
+annoy
+foul
+make turbid
+muddy
+rile
+stir
+vex
+annoyance
+noun. feeling of being irritated
+anger
+discontent
+displeasure
+distress
+exasperation
+frustration
+indignation
+irascibility
+irritation
+pique
+unhappiness
+vexation
+dissatisfy
+verb. displease
+anger
+disappoint
+discontent
+perturb
+harshness
+noun. crudity
+acerbity
+anger
+brutality
+cruelty
+sternness
+tyranny
+More words related to anger
+irritability
+noun. irascibility
+anger
+annoyance
+impatience
+irritation
+peevishness
+irritation
+noun. a disturbed mental state
+anger
+annoyance
+discomfort
+exasperation
+provocation
+stress
+upset
+vexation
+sulkiness
+noun. sourness
+anger
+gloominess
+glumness
+grouchiness
+sullenness
+sullenness
+noun. sulkiness
+acrimony
+anger
+gloominess
+moodiness
+moroseness
+spleen
+noun. hate
+anger
+caprice
+choler
+depression
+dislike
+grudge
+hatred
+hostility
+ire
+lien
+malice
+melancholy
+milt
+rancor
+resentment
+spite
+whim
+wrath
+choler
+noun. wrath
+anger
+bile
+ire
+dudgeon
+noun. intense indignation
+anger
+bitterness
+displeasure
+fury
+huff
+ire
+irritation
+malice
+rage
+resentment
+umbrage
+wrath
+disgruntle
+verb. disappoint
+anger
+annoy
+discontent
+displease
+dissatisfy
+irk
+irritate
+embitterment
+noun. resentment
+acrimony
+anger
+animosity
+bitterness
+indignation
+ire
+malice
+rancor
+rancorousness
+resentfulness
+spite
+virulence
+virulency
+More words related to anger
+envenom
+verb. poison
+acerbate
+alienate
+anger
+antagonize
+contaminate
+embitter
+empoison
+harm
+impair
+infect
+injure
+make bitter
+make sick
+rankle
+taint
+irascibility
+noun. temper
+acerbity
+anger
+annoyance
+bad humor
+cantankerousness
+crossness
+dander
+excitability
+fit
+fretfulness
+furor
+fury
+grouchiness
+heat
+hotheadedness
+huffiness
+ill-humor
+impatience
+irascibleness
+ire
+irritability
+irritation
+low boiling point
+miff
+outburst
+passion
+peevishness
+petulance
+pugnacity
+rage
+resentment
+sensitivity
+short fuse
+slow burn
+snit
+sourness
+spleen
+stew
+sullenness
+surliness
+tantrum
+tartness
+tear
+temperament
+tetchiness
+tiff
+tizzy
+touchiness
+wax
+irascibleness
+noun. temper
+acerbity
+anger
+annoyance
+bad humor
+cantankerousness
+crossness
+dander
+excitability
+fit
+fretfulness
+furor
+fury
+grouchiness
+heat
+hotheadedness
+huffiness
+ill-humor
+impatience
+irascibility
+ire
+irritability
+irritation
+low boiling point
+miff
+outburst
+passion
+peevishness
+petulance
+pugnacity
+rage
+resentment
+sensitivity
+short fuse
+slow burn
+snit
+sourness
+spleen
+stew
+sullenness
+surliness
+tantrum
+tartness
+tear
+temperament
+tetchiness
+tiff
+tizzy
+touchiness
+wax
+jeremiad
+noun. tirade
+anger
+berating
+censure
+condemnation
+denunciation
+diatribe
+dispute
+fulmination
+harangue
+invective
+lecture
+malediction
+philippic
+ranting
+revilement
+screed
+sermon
+tongue-lashing
+vituperation
+pestering
+noun. annoyance
+anger
+botheration
+bothering
+discontent
+displeasure
+distress
+exasperation
+frustration
+harassment
+indignation
+irascibility
+irritation
+pique
+provocation
+unhappiness
+vexation
+short fuse
+noun. temper
+acerbity
+anger
+annoyance
+bad humor
+cantankerousness
+crossness
+dander
+excitability
+fit
+fretfulness
+furor
+fury
+grouchiness
+heat
+hotheadedness
+huffiness
+ill-humor
+impatience
+irascibility
+irascibleness
+ire
+irritability
+irritation
+low boiling point
+miff
+outburst
+passion
+peevishness
+petulance
+pugnacity
+rage
+resentment
+sensitivity
+slow burn
+snit
+sourness
+spleen
+stew
+sullenness
+surliness
+tantrum
+tartness
+tear
+temperament
+tetchiness
+tiff
+tizzy
+touchiness
+wax
+snit
+noun. maddened state
+agitation
+anger
+enragement
+exasperation
+fume
+furiousness
+lividness
+upset
+tetchiness
+noun. temper
+acerbity
+anger
+annoyance
+bad humor
+cantankerousness
+crossness
+dander
+excitability
+fit
+fretfulness
+furor
+fury
+grouchiness
+heat
+hotheadedness
+huffiness
+ill-humor
+impatience
+irascibility
+irascibleness
+ire
+irritability
+irritation
+low boiling point
+miff
+outburst
+passion
+peevishness
+petulance
+pugnacity
+rage
+resentment
+sensitivity
+short fuse
+slow burn
+snit
+sourness
+spleen
+stew
+sullenness
+surliness
+tantrum
+tartness
+tear
+temperament
+tiff
+tizzy
+touchiness
+wax
+vindictiveness
+noun. spitefulness
+anger
+cattiness
+cruelty
+cussedness
+evil
+hatefulness
+malevolence
+maliciousness
+meanness
+orneriness
+revenge
+spite
+vengefulness
+viciousness
+fuck
+fuck you
+hope you die
+bitchy
+bitch
+
+
+arsehole 
+
+ass 
+
+ass-hat - idiot
+
+assbag - idiot
+
+assbandit 
+
+assbanger 
+
+assbite - idiot
+
+assclown 
+
+asscock - idiot
+
+
+assface
+
+assfuck 
+
+assfucker 
+
+assgoblin 
+
+asshat
+
+asshead - idiot
+
+asshole - jerk
+
+asshopper 
+
+assjacker 
+
+asslick - idiot
+
+asslicker - Buttlicker
+weewee
+assmonkey 
+
+assmunch - idiot
+
+assmuncher - butt
+
+assnigger 
+
+asspirate
+
+assshit -
+
+assshole - 
+
+asssucker -
+
+asswad -
+
+asswipe - 
+
+tard - mentally challenged
+twat - 
+
+twatlips - idiot
+
+twats 
+
+
+sand nigger 
+
+sandnigger 
+shit
+
+shitass - idiot
+
+shitbag - idiot
+
+shitbagger - idiot
+
+shitbrains - idiot
+
+shitbreath - Bad Breath
+
+
+shitcunt - idiot
+
+shitdick - idiot
+
+shitface - pooface
+
+
+shithead - jerk
+
+shithole - idiot
+
+shithouse 
+
+shitspitter - 
+
+shitstain -
+
+
+shittiest
+
+shitting -
+
+
+
+shiz 
+
+shiznit
+
+skank - dirty girl
+
+slut 
+
+slutbag 
+
+smeg 
+
+snatch 
+
+spic 
+
+spick 
+
+suckass - idiot
+
+queef 
+
+queer 
+
+queerbait
+
+queerhole
+
+
+peckerhead - idiot
+
+
+penisbanger
+
+penisfucker 
+
+penispuffer 
+
+piss
+
+pissed 
+
+pissed off 
+
+
+prick 
+
+punanny 
+
+
+pussies 
+
+pussy -
+
+puto - idiot
+
+
+
+nigaboo 
+
+nigger 
+
+niggers 
+
+niglet 
+
+nut sack 
+
+nutsack 
+
+jackass - idiot
+
+jagoff - idiot
+mothafucka - Jerk
+
+mothafuckin'
+
+motherfucker 
+ho 
+
+hoe
+
+homo 
+motherfucking
+
+lameass - loser
+
+gay - 
+
+gayass 
+
+gaybob - 
+
+gaydo -
+
+gayfuck -
+
+gayfuckist -
+
+gaylord -
+
+gaytard 
+
+gaywad 
+
+goddamn - goshdarn
+
+goddamnit - goshdarnit
+
+
+gook 
+
+gringo 
+
+guido 
+
+
+
+fag 
+
+fagbag 
+
+fagfucker
+
+faggit 
+
+faggot
+
+faggotcock 
+
+fagtard 
+
+fatass 
+
+
+flamer 
+
+fuck 
+
+fuckass - idiot
+
+fuckbag - idiot
+
+fuckboy - idiot
+
+fuckbrain - idiot
+
+
+fuckbutter 
+
+fucker
+
+fuckersucker - idiot
+
+fuckface - idiot
+
+fuckhead -
+
+fuckhole - jerk
+
+fuckin 
+
+fucking - freaking
+
+fucknut - idiot
+
+fucknutt - idiot
+
+fuckoff - go away
+
+fucks 
+
+fuckstick 
+
+fucktard - Moron
+
+fucktart - idiot
+
+fuckup - idiot
+
+fuckwad - idiot
+
+fuckwit - dummy
+
+fuckwitt - idiot
+
+damn - darn
+
+dick
+
+
+dickbag - idiot
+
+
+dickface - idiot
+
+dickfuck - idiot
+
+dickfucker -
+
+dickhead - 
+
+dickhole -
+
+
+dickmonger 
+
+dicks 
+
+dickslap 
+
+dicksucker 
+
+
+dicktickler
+
+dickwad - idiot
+
+dickweasel - idiot
+
+dickweed - idiot
+
+dickwod - idiot
+
+dike 
+
+dildo
+
+dipshit - idiot
+
+doochbag - idiot
+
+
+douche 
+
+douche-fag - idiot
+
+douchebag -
+
+douchewaffle -
+
+dumass - idiot
+
+dumb ass - idiot
+
+dumbass - idiot
+
+dumbfuck - idiot
+
+dumbshit - idiot
+
+dumshit - idiot
+
+dyke -
+
+cunt
+cocksniffer 
+
+cocksucker
+
+cuntass - idiot
+
+cuntface - idiot
+
+
+bampot - idiot
+
+bastard 
+
+beaner
+
+bitch 
+
+bitchass - idiot
+
+bitches - 
+
+bitchtits 
+
+bitchy - mean
+
+
+bollocks 
+
+bollox 
+
+brotherfucker 
+
+bullshit -
+
+
+
+
+butt-pirate 
+
+buttfucka 
+
+buttfucker 
+
+
+
+
+	
+	

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Ronald/Downloads/microsoft-translator-java-api-0.6.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ronald/Downloads/jaws-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ronald/Desktop/google-api-services-translate-v2-rev44-java-1.21.0/translate/google-api-services-translate-v2-rev44-1.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ronald/Desktop/stanford-postagger-2015-12-09/stanford-postagger-2015-12-09/stanford-postagger.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ronald/Desktop/stanford-postagger-2015-12-09/stanford-postagger-2015-12-09/lib/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ronald/Desktop/stanford-postagger-2015-12-09/stanford-postagger-2015-12-09/lib/slf4j-simple.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ronald/Desktop/LingPipe/lingpipe-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ronald/Desktop/stanford-corenlp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ronald/Downloads/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ronald/Desktop/org.apache.commons.io.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
