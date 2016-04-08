@@ -96,7 +96,7 @@ public Double extract(String word)
 
 public static void main(String[] args) {
     SWN3 test = new SWN3();
-    String sentence="He laughed at me.";
+    String sentence="bitch";
     String[] words = sentence.split("\\s+"); 
     double totalScore = 0;
     for(String word : words) {

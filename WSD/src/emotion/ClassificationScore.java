@@ -1,7 +1,9 @@
 package emotion;
 
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 import com.aliasi.classify.Classification;
@@ -19,7 +21,7 @@ public class ClassificationScore {
 		mClassifier = DynamicLMClassifier.createNGramProcess(mCategories, nGram);
 	}
 
-	void run() throws ClassNotFoundException, IOException {
+	void run(String str) throws ClassNotFoundException, IOException {
 		FileReader angerTxt = new FileReader("Training/AngerTrainingData.txt");
 		FileReader disgustTxt = new FileReader("Training/DisgustTrainingData.txt");
 		FileReader fearTxt = new FileReader("Training/FearTrainingData.txt");
@@ -59,12 +61,7 @@ public class ClassificationScore {
 
 		}
 
-		Scanner scan = new Scanner(System.in);
-		System.out.println("Enter something: ");
-		String input = scan.nextLine();
-		System.out.println(input);
-		classify(input);
-		scan.close();
+		classify(str);
 		anger.close();
 		disgust.close();
 		fear.close();
@@ -75,49 +72,43 @@ public class ClassificationScore {
 
 	// train
 	void train(String text, String category) throws IOException {
-
 		Classification classification = new Classification(category);
 		Classified<CharSequence> classified = new Classified<CharSequence>(text, classification);
 		mClassifier.handle(classified);
 	}
 
 	void classify(String text) throws IOException {
+		BufferedWriter bw = new BufferedWriter(new FileWriter("Affective/doc.txt", true));
 		System.out.println("\nClassifying: " + text);
 		Classification classification = mClassifier.classify(text);
 		try {
 			if (classification.bestCategory() == "Anger") {
-				System.out.println("anger");
+				bw.write("anger");
+				bw.newLine();
 			}
 
 			if (classification.bestCategory() == "Disgust") {
-				System.out.println("disgust");
+				bw.write("disgust");
+				bw.newLine();
 			}
 			if (classification.bestCategory() == "Fear") {
-				System.out.println("fear");
+				bw.write("fear");
+				bw.newLine();
 			}
 
 			if (classification.bestCategory() == "Happiness") {
-				System.out.println("happiness");
+				bw.write("happiness");
+				bw.newLine();
 			}
 			if (classification.bestCategory() == "Sadness") {
-				System.out.println("sadness");
+				bw.write("sadness");
+				bw.newLine();
 			}
 
 		} catch (Exception e) {
 			System.out.println("error in classifying");
 		}
+		bw.close();
 
 	}
-
-	public static void main(String[] args) throws IOException {
-		System.out.println("Positive Negative Classifier");
-
-		try {
-			new ClassificationScore().run();
-		} catch (Throwable t) {
-			System.out.println("Thrown: " + t);
-			t.printStackTrace(System.out);
-		}
-	}
-
 }

@@ -6,7 +6,7 @@ import java.io.File;
 
 public class TfIdfScore_Similarity {
 	public static void getData() throws FileNotFoundException, IOException {
-		File dir = new File("Emotion");
+		File dir = new File("Emotion"); //Emotion directory
 		File[] directoryListing = dir.listFiles();
 		if (directoryListing != null) {
 			for (File child : directoryListing) {
@@ -19,4 +19,6 @@ public class TfIdfScore_Similarity {
 		} 
 
 	}
+	
+	
 }

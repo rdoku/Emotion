@@ -33,16 +33,20 @@ public class DocumentParser {
             if (f.getName().endsWith(".txt")) {
                 in = new BufferedReader(new FileReader(f));
                 StringBuilder sb = new StringBuilder();
-                String s = null;
+                String s = "";
                 while ((s = in.readLine()) != null) {
+                	//   System.out.println(s);
                     sb.append(s);
+                    sb.append(" ");
                 }
+               
                 String newStr = sb.toString().replaceAll("\\(.*?\\)", "");
                 newStr = newStr.replaceAll("\\[.*?\\]", "");
                 String[] tokenizedTerms = newStr.replaceAll("[\\W&&[^\\s]]", "").split("\\W+");   //to get individual terms
                 for (String term : tokenizedTerms) {
                     if (!allTerms.contains(term)) {  //avoid duplicate entry
                         allTerms.add(term);
+                        
                     }
                 }
                 termsDocsArray.add(tokenizedTerms);
