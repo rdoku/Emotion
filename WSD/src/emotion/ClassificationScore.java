@@ -37,10 +37,12 @@ public class ClassificationScore {
 		Scanner surprise = new Scanner(surpriseTxt);
 
 		while (anger.hasNextLine()) {
+		//	System.out.println(anger.nextLine());
 			train(anger.nextLine(), "Anger");
 		}
 
 		while (disgust.hasNextLine()) {
+			
 			train(disgust.nextLine(), "Disgust");
 
 		}
@@ -79,7 +81,6 @@ public class ClassificationScore {
 
 	void classify(String text) throws IOException {
 		BufferedWriter bw = new BufferedWriter(new FileWriter("Affective/doc.txt", true));
-		System.out.println("\nClassifying: " + text);
 		Classification classification = mClassifier.classify(text);
 		try {
 			if (classification.bestCategory() == "Anger") {
@@ -102,6 +103,10 @@ public class ClassificationScore {
 			}
 			if (classification.bestCategory() == "Sadness") {
 				bw.write("sadness");
+				bw.newLine();
+			}
+			if (classification.bestCategory() == "Surprise") {
+				bw.write("surprise");
 				bw.newLine();
 			}
 
