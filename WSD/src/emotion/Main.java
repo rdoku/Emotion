@@ -1,0 +1,20 @@
+package emotion;
+
+import java.io.File;
+
+public class Main {
+	public static void main(String[] args) throws Exception
+	{
+		String fileName =  "Other/sample.txt";
+		MachineTranslationApproach mta =  new MachineTranslationApproach();
+		mta.machineTranslation(fileName);
+		LMClassifier lmc = new LMClassifier();
+		lmc.lm(fileName);
+		GetScores gs = new GetScores();
+		System.out.println("Getting scores");
+		gs.getScores();
+		File fin = new File("Final");
+		CleanDirectory.dirClean(fin);
+	}
+
+}

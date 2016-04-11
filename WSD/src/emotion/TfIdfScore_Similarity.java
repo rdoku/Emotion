@@ -13,10 +13,9 @@ public class TfIdfScore_Similarity {
 				File file = new File("Data/"+child.getName());
 				String emotion =  child.getName();
 				emotion = emotion.replaceAll(".txt", "");
-				System.out.println(emotion);
 				MoveFile.fileToMove(child,file);
 			}
-		} 
+		}
 
 	}
 	

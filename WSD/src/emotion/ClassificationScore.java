@@ -64,6 +64,7 @@ public class ClassificationScore {
 		}
 
 		classify(str);
+		
 		anger.close();
 		disgust.close();
 		fear.close();
@@ -114,6 +115,5 @@ public class ClassificationScore {
 			System.out.println("error in classifying");
 		}
 		bw.close();
-
 	}
 }

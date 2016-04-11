@@ -1,9 +1,11 @@
 package emotion;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -80,17 +82,14 @@ public class DocumentParser {
 
     /**
      * Method to calculate cosine similarity between all the documents.
+     * @throws IOException 
      */
-    public void getCosineSimilarity() {
-        for (int i = 0; i < tfidfDocsVector.size(); i++) {
-            for (int j = 0; j < tfidfDocsVector.size(); j++) {
-                System.out.println("between " + i + " and " + j + "  =  "
-                                    + new CosineSimilarity().cosineSimilarity(
-                                         tfidfDocsVector.get(i), 
-                                         tfidfDocsVector.get(j)
-                                       ));
-                                  //);
-            }
-        }
+    public void getCosineSimilarity() throws IOException {
+    	BufferedWriter ang = new BufferedWriter(new FileWriter("Final/MT.txt", true));
+        ang.write(new CosineSimilarity().cosineSimilarity(tfidfDocsVector.get(0),
+        		tfidfDocsVector.get(1)) + "\n");  
+        ang.close();
     }
+  
+    
 }

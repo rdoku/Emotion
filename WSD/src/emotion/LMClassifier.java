@@ -1,8 +1,10 @@
 package emotion;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
@@ -11,9 +13,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
-
 import org.apache.commons.io.FileUtils;
-
 import com.aliasi.chunk.Chunk;
 import com.aliasi.chunk.Chunking;
 import com.aliasi.sentences.MedlineSentenceModel;
@@ -24,18 +24,17 @@ import com.aliasi.tokenizer.TokenizerFactory;
 
 
 public class LMClassifier {
-	
 	static final TokenizerFactory TOKENIZER_FACTORY = IndoEuropeanTokenizerFactory.INSTANCE;
 	static final SentenceModel SENTENCE_MODEL = new MedlineSentenceModel();
 	static final SentenceChunker SENTENCE_CHUNKER = new SentenceChunker(TOKENIZER_FACTORY, SENTENCE_MODEL);
 	
-	
-	public static void main(String[] args) throws ClassNotFoundException, IOException, InterruptedException
+	public  void lm(String fileName) throws ClassNotFoundException, IOException, InterruptedException
 	{
-		String fileName ="Other/sample.txt";
+		System.out.println("Language Model Classification");
 		getClassification(fileName);
 		File affective = new File("Affective");
 		CleanDirectory.dirClean(affective);
+		System.out.println("Language Model Classification Done.");
 		
 	}
 	
@@ -80,24 +79,21 @@ public class LMClassifier {
 		        map.put(w, n); 
 		    }
 		  calculateTf(map, len);
-		  
-
 	    }
 	 
-	 public static void calculateTf(Map<String, Integer> mp, int l) {
+	 public static void calculateTf(Map<String, Integer> mp, int l) throws IOException {
+		 BufferedWriter tf = new BufferedWriter(new FileWriter("Final/LM.txt", true));
 		    Iterator<?> it = mp.entrySet().iterator();
 		    while (it.hasNext()) {
 		        Map.Entry pair = (Map.Entry)it.next();
 		        Integer i = new Integer((int) pair.getValue());
 		        double d = i.doubleValue();
-		        System.out.println(pair.getKey() + " = " + (d/l));
-		        it.remove(); // avoids a ConcurrentModificationException
+		        tf.write(pair.getKey() + " = " + (d/l) + "\n");
+		        it.remove(); 
 		    }
+		    tf.close();
 		}
 	 
-	
-
-		
 	}
  
   
