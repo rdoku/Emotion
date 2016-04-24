@@ -12,7 +12,8 @@ public class Main {
 		lmc.lm(fileName);
 		GetScores gs = new GetScores();
 		System.out.println("Getting scores");
-		gs.getScores();
+		System.out.println(gs.getEmotion());
+	//	GetScores.getEmotionScores();
 		File fin = new File("Final");
 		CleanDirectory.dirClean(fin);
 	}

@@ -30,7 +30,7 @@ public class LMClassifier {
 	
 	public  void lm(String fileName) throws ClassNotFoundException, IOException, InterruptedException
 	{
-		System.out.println("Language Model Classification");
+		System.out.println("Begin Language Model Classification");
 		getClassification(fileName);
 		File affective = new File("Affective");
 		CleanDirectory.dirClean(affective);

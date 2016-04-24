@@ -23,7 +23,7 @@ public class Ngrams {
     public static void main(String[] args) {
     	 try
      {
-    	String username = "what the hell is wrong with you?";
+    	String username = "omg!! he gets on my nerves so bad.";
     	int len = username.length();
         for (int n = 1; n < len-1; n++) {
         	{ System.out.println(ngrams(n,username));}

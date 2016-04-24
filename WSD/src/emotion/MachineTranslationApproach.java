@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class MachineTranslationApproach {
 	public void machineTranslation(String fileName) throws Exception {
 		DataCleansing clean = new DataCleansing();   //cleanses data
-		System.out.println("Machine Translation");
+		System.out.println("Beginining Machine Translation");
 		clean.getFileName(fileName);
 		String cleansedData = "Translated/data.txt";
 		DataTranslator translateData = new DataTranslator(); 

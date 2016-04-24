@@ -225,22 +225,22 @@ public class KeywordExtractor {
 	}
 	
 	public static boolean isSurpriseword(String word) throws IOException {
-		surp = new BufferedWriter(new FileWriter("Emotion/Surprise.txt", true));
-		FileInputStream Stream = new FileInputStream("Emot/Surprise2.txt");
+		surp = new BufferedWriter(new FileWriter("Emotion/Surprise.txt", true)); // read surprise keyword text
+		FileInputStream Stream = new FileInputStream("Emot/Surprise2.txt"); // Create a new surprise file
 		BufferedReader St = new BufferedReader(new InputStreamReader(Stream));
 		String emotion;
-		List<String> emotionList = new ArrayList<String>();
+		List<String> emotionList = new ArrayList<String>(); //Arraylist to store all words
 		while ((emotion = St.readLine()) != null) {
 			emotion = emotion.trim();
 			emotion = MorphaStemmer.stem(emotion);
-		    emotionList.add(emotion);
+		    emotionList.add(emotion);                        
 		    }
 		St.close();
 		String[] emotionArray = emotionList.toArray(new String[0]);
 		Set<String> emotionWordSet = new HashSet<String>(Arrays.asList(emotionArray));
 		word = MorphaStemmer.stem(word);
 		for (String s : emotionWordSet) {
-			surp.write(s.trim());
+			surp.write(s.trim());  
 			surp.newLine();
 		    if (s.trim().equals(word))
 		    {
@@ -258,9 +258,9 @@ public class KeywordExtractor {
 		StringBuilder emotion = new StringBuilder();
 		String[] words = string.split("\\s+");
 		for(String word : words) {
-			if(isSurpriseword(word))
+			if(isSurpriseword(word))  //calling isSurprise function to check word is a surprise keyword
 			{
-				emotionArray.add(word);
+				emotionArray.add(word); // add keyword to emotion array
 			}
 		}
 		
@@ -269,7 +269,7 @@ public class KeywordExtractor {
 		    emotion.append(s);
 		    emotion.append("\n");
 		}
-		surp.write(emotion.toString());
+		surp.write(emotion.toString()); // append emotion keyword to new created so
  		surp.close();
 	}
 	
