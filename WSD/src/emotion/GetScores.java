@@ -1,9 +1,7 @@
 package emotion;
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.FileInputStream;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Collections;
@@ -12,6 +10,128 @@ import java.util.Map;
 import java.util.Map.Entry;
 
 public class GetScores {
+	
+	
+public String getLMscore() throws NumberFormatException, IOException
+{
+	String result = " ";
+	double anger = 0.00;
+	double fear = 0.00;
+	double surprise = 0.00;
+	double happy = 0.00;
+	double sadness = 0.00;
+	double disgust = 0.000;
+	
+	FileInputStream st = new FileInputStream("Final/LM.txt");
+	BufferedReader lm = new BufferedReader(new InputStreamReader(st));
+	String emo;
+	while ((emo = lm.readLine()) != null)  {
+		if (emo.contains("anger"))
+		{
+			String ang = emo.substring(emo.lastIndexOf("=") + 1);
+			anger = Double.parseDouble(ang);
+			
+		}
+		if (emo.contains("disgust"))
+		{
+			String dis = emo.substring(emo.lastIndexOf("=") + 1);
+			disgust = Double.parseDouble(dis);
+		}
+		if (emo.contains("fear"))
+		{
+			String fr = emo.substring(emo.lastIndexOf("=") + 1);
+			fear = Double.parseDouble(fr);
+		}
+		if (emo.contains("happiness"))
+		{
+			String hap = emo.substring(emo.lastIndexOf("=") + 1);
+			happy = Double.parseDouble(hap);
+			
+		}
+		if (emo.contains("surprise"))
+		{
+			String sur = emo.substring(emo.lastIndexOf("=") + 1);
+			surprise = Double.parseDouble(sur);
+		}
+		if (emo.contains("sadness"))
+		{
+			String sad = emo.substring(emo.lastIndexOf("=") + 1);
+			sadness = Double.parseDouble(sad);
+		}
+		
+    } 
+	
+	lm.close();
+	
+	Map<String, Double> map = new HashMap<>();
+	map.put("Anger", anger);
+	map.put("Disgust", disgust);
+	map.put("Fear", fear);
+	map.put("Happiness", happy);
+	map.put("Sadness", sadness);
+	map.put("Surprise", surprise);
+	
+	double maxValueInMap=(Collections.max(map.values()));  // This will return max value in the Hashmap
+    for (Entry<String, Double> entry : map.entrySet()) {  // Itrate through hashmap
+        if (entry.getValue()==maxValueInMap) {
+            result = entry.getKey();     // Print the key with max value
+        }
+    }
+	
+
+	return result;
+		
+	}
+	
+	public String getMTscore() throws IOException
+	{
+		String result = " ";
+		double anger = 0.00;
+		double fear = 0.00;
+		double surprise = 0.00;
+		double happy = 0.00;
+		double sadness = 0.00;
+		double disgust = 0.000;
+		
+		FileInputStream Stream = new FileInputStream("Final/MT.txt");
+		BufferedReader mt = new BufferedReader(new InputStreamReader(Stream));
+		String emotion;
+		HashMap<Integer, String> hmap = new HashMap<Integer, String>();
+		int i = 0;
+		while (((emotion = mt.readLine()) != null) & i < 6)  {
+				hmap.put(i, emotion);
+				i++;
+		    }
+		
+		mt.close();
+		
+		anger = Double.parseDouble(hmap.get(0));
+		disgust = Double.parseDouble(hmap.get(1));
+		fear = Double.parseDouble(hmap.get(2));
+		happy = Double.parseDouble(hmap.get(3));
+		sadness = Double.parseDouble(hmap.get(4));
+		surprise = Double.parseDouble(hmap.get(5));
+		
+		
+		
+		Map<String, Double> map = new HashMap<>();
+		map.put("Anger", anger);
+		map.put("Disgust", disgust);
+		map.put("Fear", fear);
+		map.put("Happiness", happy);
+		map.put("Sadness", sadness);
+		map.put("Surprise", surprise);
+		
+		double maxValueInMap=(Collections.max(map.values()));  // This will return max value in the Hashmap
+        for (Entry<String, Double> entry : map.entrySet()) {  // Itrate through hashmap
+            if (entry.getValue()==maxValueInMap) {
+                result = entry.getKey();     // Print the key with max value
+            }
+        }
+		
+
+		return result;
+	}
 	
 	public  String getEmotion() throws IOException
 	{
@@ -112,12 +232,13 @@ public class GetScores {
 	
 	public static void  getEmotionScores() throws IOException
 	{
-		double anger = 0.01;
-		double fear = 0.01;
-		double surprise = 0.01;
-		double happy = 0.01;
-		double sadness = 0.01;
-		double disgust = 0.01;
+		double anger = 0.00;
+		double fear = 0.00;
+		double surprise = 0.00;
+		double happy = 0.00;
+		double sadness = 0.00;
+		double disgust = 0.00
+				;
 		
 		FileInputStream Stream = new FileInputStream("Final/MT.txt");
 		BufferedReader mt = new BufferedReader(new InputStreamReader(Stream));

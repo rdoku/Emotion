@@ -12,5 +12,7 @@
 	<classpathentry kind="lib" path="C:/Users/Ronald/Desktop/stanford-corenlp.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Ronald/Downloads/junit-4.11.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Ronald/Desktop/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ronald/Downloads/stanford-english-corenlp-2016-01-10-models.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ronald/Downloads/stanford-parser-3.5.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

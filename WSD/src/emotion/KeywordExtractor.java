@@ -19,6 +19,7 @@ public class KeywordExtractor {
    static  BufferedWriter hap = null;
    static  BufferedWriter sad = null;
    static  BufferedWriter surp = null;
+
    
    public static boolean isFearword(String word) throws IOException {
 		fr = new BufferedWriter(new FileWriter("Emotion/Fear.txt", true));
@@ -45,6 +46,20 @@ public class KeywordExtractor {
 		}
 		return false;
 	}
+   
+   public int countFearWords(String string) throws IOException
+   {
+	   int fearCount = 0;
+		String[] words = string.split("\\s+");
+		for(String word : words) {
+			if(isFearword(word))
+			{
+				fearCount++;
+			}
+		}
+		
+	 return fearCount;  
+   }
 	
 	
 	public void fearWords(String string) throws IOException {
@@ -122,6 +137,21 @@ public class KeywordExtractor {
 		}
 		
 		
+		 public int countAngryWords(String string) throws IOException
+		   {
+			   int count = 0;
+				String[] words = string.split("\\s+");
+				for(String word : words) {
+					if(isAngryword(word))
+					{
+						count++;
+					}
+				}
+				
+			 return count;  
+		   }
+		
+		
 		 public static boolean isDisgustword(String word) throws IOException {
 				dis = new BufferedWriter(new FileWriter("Emotion/Disgust.txt", true));
 				FileInputStream Stream = new FileInputStream("Emot/Disgust2.txt");
@@ -171,6 +201,20 @@ public class KeywordExtractor {
 				
 			}
 		 
+			
+			 public int countDisgustWords(String string) throws IOException
+			   {
+				   int count = 0;
+					String[] words = string.split("\\s+");
+					for(String word : words) {
+						if(isDisgustword(word))
+						{
+							count++;
+						}
+					}
+					
+				 return count;  
+			   }
 	 
 	
 	
@@ -224,6 +268,21 @@ public class KeywordExtractor {
  		sad.close();
 	}
 	
+	 public int countSadWords(String string) throws IOException
+	   {
+		   int count = 0;
+			String[] words = string.split("\\s+");
+			for(String word : words) {
+				if(isSadword(word))
+				{
+					count++;
+				}
+			}
+			
+		 return count;  
+	   }
+	
+	
 	public static boolean isSurpriseword(String word) throws IOException {
 		surp = new BufferedWriter(new FileWriter("Emotion/Surprise.txt", true)); // read surprise keyword text
 		FileInputStream Stream = new FileInputStream("Emot/Surprise2.txt"); // Create a new surprise file
@@ -272,6 +331,20 @@ public class KeywordExtractor {
 		surp.write(emotion.toString()); // append emotion keyword to new created so
  		surp.close();
 	}
+	
+	 public int countSurpriseWords(String string) throws IOException
+	   {
+		   int count = 0;
+			String[] words = string.split("\\s+");
+			for(String word : words) {
+				if(isSurpriseword(word))
+				{
+					count++;
+				}
+			}
+			
+		 return count;  
+	   }
 	
 	public static boolean isHappyword(String word) throws IOException {
 		hap = new BufferedWriter(new FileWriter("Emotion/Happiness.txt", true));
@@ -322,6 +395,20 @@ public class KeywordExtractor {
  		hap.close();
 	}
 	
+	
+	 public int countHappyWords(String string) throws IOException
+	   {
+		   int count = 0;
+			String[] words = string.split("\\s+");
+			for(String word : words) {
+				if(isHappyword(word))
+				{
+					count++;
+				}
+			}
+			
+		 return count;  
+	   }
 	
 	
 }

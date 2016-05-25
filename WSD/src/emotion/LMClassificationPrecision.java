@@ -14,9 +14,8 @@ import java.util.Random;
 import org.apache.commons.io.IOUtils;
 import org.apache.commons.io.LineIterator;
 
-public class PrecisionRecall {
-	
-	static 	double TP = 0.0, TN = 0.0, FN = 0.0, FP = 0.0;  //declaring variables
+public class LMClassificationPrecision {
+static 	double TP = 0.0, TN = 0.0, FN = 0.0, FP = 0.0;  //declaring variables
 	
 	/*Get random numbers*/
 	
@@ -81,12 +80,11 @@ public class PrecisionRecall {
 		String emotion = fn.replaceAll(".txt", "");
 	    emotion = emotion.replaceAll("Test/", "");
 		
-		MachineTranslationApproach mta =  new MachineTranslationApproach();
-		mta.machineTranslation(fileName);
-		LMClassifier lmc = new LMClassifier();
+	    LMClassifier lmc = new LMClassifier();
 		lmc.lm(fileName);
 		GetScores gs = new GetScores();
-		String predicted = gs.getEmotion();
+		String predicted = gs.getLMscore();
+		
 		File fin = new File("Final");
 		CleanDirectory.dirClean(fin);
 		
@@ -111,13 +109,11 @@ public class PrecisionRecall {
 		String emotion = fn.replaceAll(".txt", "");
 	    emotion = emotion.replaceAll("Test/", "");
 		
-
-		MachineTranslationApproach mta =  new MachineTranslationApproach();
-		mta.machineTranslation(fileName);
-		LMClassifier lmc = new LMClassifier();
+	    LMClassifier lmc = new LMClassifier();
 		lmc.lm(fileName);
 		GetScores gs = new GetScores();
-		String predicted = gs.getEmotion();
+		String predicted = gs.getLMscore();
+		
 		File fin = new File("Final");
 		CleanDirectory.dirClean(fin);
 		
@@ -134,10 +130,10 @@ public class PrecisionRecall {
 	
 	public static void main(String[] args) throws Exception
 	{
-		System.out.println("HYBRID APPROACH Precision and Recall");
+		System.out.println("LM Precision and Recall");
 		String fn = "Test/Anger.txt";
 		
-		for (int i = 0; i < 5; i++)
+		for (int i = 0; i < 500; i++)
 		{
 			System.out.println("Beginning Iteration " + i);
 			System.out.println("Checking for actual ");

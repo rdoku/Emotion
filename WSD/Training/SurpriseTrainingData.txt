@@ -29,6 +29,8 @@
 	nonplus astonish
 	bewilderment amazing,  , wonder
 	disconcert astonish
+	chance
+	by chance
 	dismay  & astonish, alarm
 	eye-opener amazing,  
 	unforeseen  & amazing,  , surprising
@@ -98,7 +100,8 @@
 	prodigy amazing,  
 	rage
 	sensation wonderful, wonder
-	shake 
+	shake chance
+	i saw by chance
 	shake up astonish
 	signal alarm
 	sudden adj.
@@ -923,6 +926,7 @@ unfamiliarity
 uniqueness
 vicissitude
 weird
+by chance i saw
 overwhelm
 verb. astonish, devastate
 bewilder

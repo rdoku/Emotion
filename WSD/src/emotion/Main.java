@@ -5,7 +5,7 @@ import java.io.File;
 public class Main {
 	public static void main(String[] args) throws Exception
 	{
-		String fileName =  "Other/sample.txt";
+		String fileName =  "Other/firstout.txt";
 		MachineTranslationApproach mta =  new MachineTranslationApproach();
 		mta.machineTranslation(fileName);
 		LMClassifier lmc = new LMClassifier();
@@ -13,7 +13,7 @@ public class Main {
 		GetScores gs = new GetScores();
 		System.out.println("Getting scores");
 		System.out.println(gs.getEmotion());
-	//	GetScores.getEmotionScores();
+		GetScores.getEmotionScores();
 		File fin = new File("Final");
 		CleanDirectory.dirClean(fin);
 	}
